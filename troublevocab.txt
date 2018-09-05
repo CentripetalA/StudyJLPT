@@ -1,0 +1,121 @@
+Kanji	Hiragana	English	SuccessRate
+限る	かぎる	to restrict, to limit, to confine	0.5
+稼ぐ	かせぐ	to earn income, to labor	0.53
+解決	かいけつ	settlement, solution, resolution	0.56
+欠陥	けっかん	defect, fault, deficiency	0.58
+無視	むし	disregard, ignore	0.6
+企業	きぎょう	enterprise, undertaking	0.65
+貴重	きちょう	precious, valuable	0.67
+瞬間	しゅんかん	moment, second, instant	0.67
+明らか	あきらか	obvious, evident, clear	0.69
+関心	かんしん	concern, interest	0.7
+お見舞い	おみまい	calling on someone who is ill, enquiry	0.7
+候補	こうほ	candidacy	0.7
+噂	うわさ	rumour, report, gossip, common talk	0.7
+作業	さぎょう	work, operation, manufacturing, fatigue duty	0.71
+女子	じょし	woman, girl	0.71
+人込み	ひとごみ	crowd of people	0.73
+修理	しゅうり	repairing, mending	0.73
+熱帯	ねったい	tropics	0.73
+議会	ぎかい	Diet, congress, parliament	0.74
+次第	しだい	(1) order, precedence, (2) circumstances, (3) immediate(ly)	0.75
+明確	めいかく	clear up, clarify, define	0.75
+需要	じゅよう	demand, request	0.75
+熱心	ねっしん	zeal, enthusiasm	0.75
+逆らう	さからう	to go against, to oppose, to disobey, to defy	0.76
+料金	りょうきん	fee, charge, fare	0.76
+輝く	かがやく	to shine, to glitter, to sparkle	0.77
+哀れ	あわれ	helpless, pity, sorrow, grief	0.78
+真似	まね	mimicry, imitation, behavior, pretense	0.78
+	ちゃわん	rice bowl	0.78
+扱う	あつかう	to handle, to deal with, to treat	0.79
+重大	じゅうだい	serious, important, grave, weighty	0.79
+	たまらない	intolerable, unbearable, unendurable	0.8
+したがって	したがって	therefore, consequently, in accordance with	0.8
+囲む	かこむ	to surround, to encircle	0.8
+感覚	かんかく	sense, sensation	0.8
+止す	よす	to cease, to abolish, to resign, to give up	0.8
+豊富	ほうふ	abundance, wealth, plenty, bounty	0.8
+駐車場	ちゅうしゃじょう	parking lot	0.8
+労働	ろうどう	manual labor, toil, work	0.8
+契約	けいやく	contract, compact, agreement	0.81
+与える	あたえる	to give, to present, to award	0.82
+預ける	あずける	to give into custody, to entrust, to deposit	0.83
+劣る	おとる	to fall behind, to be inferior to	0.83
+	そのうち	eventually, sooner or later, of the previously mentioned	0.83
+年齢	ねんれい	age, years	0.83
+作物	さくもつ	produce (e.g. agricultural), crops	0.83
+都市	とし	town, city, municipal, urban	0.83
+返す	かえす	to return something	0.83
+他人	たにん	another person, unrelated person, outsider, stranger	0.83
+電報	でんぽう	telegram	0.83
+委員	いいん	committee member	0.83
+罪	つみ	crime, fault, indiscretion	0.83
+瓶	びん	bottle	0.83
+お祝い	おいわい	congratulation	0.83
+覆う	おおう	to cover, to hide, to conceal, to wrap, to disguise	0.84
+座席	ざせき	seat	0.86
+段	だん	step, stair, flight of steps, grade, rank, level	0.86
+明ける	あける	to dawn, to become daylight	0.88
+暗い	くらい	gloomy	0.88
+植える	うえる	to plant, to grow	0.88
+夜中	よなか	midnight, dead of night	0.88
+幅	はば	width, breadth	0.88
+図	ず	figure (e.g. Fig 1), drawing, picture, illustration	0.88
+安定	あんてい	stability, equilibrium	0.88
+鉄道	てつどう	railroad	0.88
+持ち上げる	もちあげる	to raise, to lift up, to flatter	0.88
+沖	おき	open sea	0.88
+札	さつ	(1) token, label, (2) ticket, (3) charm	0.88
+共に	ともに	sharing with, participate in	0.88
+不平	ふへい	complaint, discontent, dissatisfaction	0.88
+欠点	けってん	faults, defect, weakness	0.88
+活動	かつどう	action, activity	0.88
+合う	あう	to match	0.88
+済む	すむ	to finish	0.88
+年月	としつき	months and years	0.88
+交番	こうばん	police box	0.88
+昨夜	ゆうべ	last night	0.88
+旧	きゅう	ex-	0.88
+	どうしても	by all means, at any cost, no matter what	0.88
+明かり	あかり	lamplight, light (in general), brightness	0.89
+合図	あいず	sign, signal	0.92
+	あいにく	unfortunately, Sorry,  but....	0.93
+空き	あき	room, time to spare, emptiness	0.93
+飽きる	あきる	to get tired of, to lose interest in, to have enough	0.93
+愛情	あいじょう	love, affection	1.0
+愛する	あいする	to love	1.0
+握手	あくしゅ	handshake	1.0
+悪魔	あくま	devil, demon, evil spirit	1.0
+汗	あせ	sweat, perspiration	1.0
+辺り	あたり	vicinity, nearby	1.0
+当たる	あたる	to be hit, to be successful, to be equivalent to	1.0
+	あちこち	here and there	1.0
+集まり	あつまり	gathering, meeting, assembly, collection	1.0
+当てる	あてる	to hit, to apply a patch	1.0
+印刷	いんさつ	printing	1.0
+新鮮	しんせん	fresh	1.0
+全員	ぜんいん	all members (unanimity), all hands, the whole crew	1.0
+	もし	if	1.0
+鍋	なべ	saucepan, pot	1.0
+地	ち	earth	1.0
+注文	ちゅうもん	order, request	1.0
+届く	とどく	to reach	1.0
+遂に	ついに	finally, at last	1.0
+選手	せんしゅ	(1) player (in game), (2) team	1.0
+	バン	bun, van (caravan), VAN (value-added network)	1.0
+味方	みかた	friend, ally, supporter	1.0
+違いない	ちがいない	(phrase) sure, no mistaking it, for certain	1.0
+	ダイヤ	(1) dyer, (2) diagram, (3) (railway) schedule, (4) diamond	1.0
+	ラジカセ / ラジオカセット	radio cassette player	1.0
+片付ける	かたづける	to tidy up	1.0
+医学	いがく	medical science	1.0
+	ピン	pin	1.0
+通す	とおす	to let pass, to overlook, to continue	1.0
+奥さん	おくさん	(honorable) wife	1.0
+全体	ぜんたい	whole, entirety, whatever (is the matter)	1.0
+込む	こむ	to be crowded	1.0
+お互い	おたがい	mutual, reciprocal, each other	1.0
+家賃	やちん	rent	1.0
+捕まる	つかまる	to be caught, to be arrested	1.0
+密	みつ	secrecy, density (pop), minuteness, carefulness	1.0
