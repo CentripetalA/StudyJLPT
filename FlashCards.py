@@ -8,8 +8,8 @@ if __name__=="__main__":
 #    vocabDeck.summarize(20)
 #    kanjiDeck.summarize(20)
     
-    studyVocab = True
-    studyKanji = True
+    studyVocab = False
+    studyKanji = False
 
     if studyVocab:
         U.study(vocabDeck,preview=False)
