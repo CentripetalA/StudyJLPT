@@ -19,6 +19,6 @@ fullKanji="Kanji.tsv"
 trimKanji="KanjiTrim.tsv"
 wordList = {"vocab":trimVocab,"kanji":trimKanji}
 
-studySet = {"vocab":range(7),"kanji":range(5)}
+studySet = {"vocab":range(8),"kanji":range(6)}
 
 saveFileNames = {"vocab":"savedVocabDeck.json","kanji":"savedKanjiDeck.json"}
