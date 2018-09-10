@@ -13,6 +13,7 @@ import random
 import subprocess
 from gtts import gTTS
 import threading
+import PIL.Image,PIL.ImageTk
 
 class FlashCardApp:
     def __init__(self,master):
@@ -39,6 +40,10 @@ class FlashCardApp:
         self.mainLabel.config(font=("Courier", 40))
         self.mainLabelText.set("Click 'Study Kanji' or 'Study Vocab' to begin!")
         
+        self.img = None
+        self.secondaryLabel = tkinter.Label(self.displayFrame, image=self.img)
+        self.secondaryLabel.pack()
+        
         #buttons
         self.buttonFrame = tkinter.Frame(master)
         self.buttonFrame.grid(row=2,column=0)
@@ -57,26 +62,35 @@ class FlashCardApp:
         
         self.studyVocabButton = tkinter.Button(self.buttonFrame,text="Study Vocab",command=self.studyVocab)
         self.studyVocabButton.grid(row=1,column=1, sticky=tkinter.EW)
-        
-#        self.preview = tkinter.IntVar()
-#        self.previewCheckBox = tkinter.Checkbutton(self.buttonFrame, text="Preview",variable=self.preview)
-#        self.previewCheckBox.grid(row=1,column=2, sticky=tkinter.EW)
-#        
+                
         self.summarizeButton = tkinter.Button(self.buttonFrame,text="Summarize",command=self.summarize)
         self.summarizeButton.grid(row=1,column=2, sticky=tkinter.EW)
         
-        self.speakButton = tkinter.Button(self.buttonFrame,text="Speak",command=self.speak)
+        self.speakButton = tkinter.Button(self.buttonFrame,text="Change Picture",command=self.changeCardPicture)
         self.speakButton.grid(row=2,column=0, sticky=tkinter.EW)
         
-        self.doneButton = tkinter.Button(self.buttonFrame,text="Done",command=self.done)
+        self.doneButton = tkinter.Button(self.buttonFrame,text="Revert Picture",command=self.revertCardPicture)
         self.doneButton.grid(row=2,column=1, sticky=tkinter.EW)
 
-        self.quitButton = tkinter.Button(self.buttonFrame,text="Quit",command=master.quit)
+        self.quitButton = tkinter.Button(self.buttonFrame,text="Clear Picture",command=self.clearCardPicture)
         self.quitButton.grid(row=2,column=2, sticky=tkinter.EW)
         
+        self.speakButton = tkinter.Button(self.buttonFrame,text="Speak",command=self.speak)
+        self.speakButton.grid(row=3,column=0, sticky=tkinter.EW)
+        
+        self.doneButton = tkinter.Button(self.buttonFrame,text="Done",command=self.done)
+        self.doneButton.grid(row=3,column=1, sticky=tkinter.EW)
+
+        self.quitButton = tkinter.Button(self.buttonFrame,text="Quit",command=self.quitApp)
+        self.quitButton.grid(row=3,column=2, sticky=tkinter.EW)
+        
+    def nothing(self):
+        pass
+    
     def quitApp(self):
         self.done()
         self.master.quit()
+        
     def showHide(self):
         if self.waiting:
             return
@@ -86,7 +100,9 @@ class FlashCardApp:
             self.mainLabelText.set(self.currentCard.eng)
         else:
             self.mainLabelText.set(str(self.currentCard))
+        
         self.isRevealed = not self.isRevealed
+        self.wasRevealed = True
     def correct(self):
         self.updateCard(1)
         
@@ -98,10 +114,50 @@ class FlashCardApp:
             return
         if self.currentCard==None:
             return
-        if not self.isRevealed:
+        if not self.wasRevealed:
             return
         self.currentCard.updateCardSpacedRepetition(value)
         self.getAndDisplayNextCard()
+        
+    def changeCardPicture(self):
+        if self.waiting:
+            return
+        if self.currentCard==None:
+            return
+        self.currentCard.changePicture()
+        
+        if self.currentCard.image==None:
+            self.img = None
+        else:
+            print ("updating image")
+            self.img = PIL.ImageTk.PhotoImage(self.currentCard.getImage())
+        self.secondaryLabel.configure(image=self.img)
+        self.secondaryLabel.image = self.img
+        
+    def revertCardPicture(self):
+        if self.waiting:
+            return
+        if self.currentCard==None:
+            return
+        self.currentCard.revertPicture()
+        
+        if self.currentCard.image==None:
+            self.img = None
+        else:
+            print ("updating image")
+            self.img = PIL.ImageTk.PhotoImage(self.currentCard.getImage())
+        self.secondaryLabel.configure(image=self.img)
+        self.secondaryLabel.image = self.img
+        
+    def clearCardPicture(self):
+        if self.waiting:
+            return
+        if self.currentCard==None:
+            return
+        self.currentCard.clearPicture()
+        self.img = None
+        self.secondaryLabel.configure(image=self.img)
+        self.secondaryLabel.image = self.img
     
     def countdown(self):
         if self.forceStopWait:
@@ -145,14 +201,22 @@ class FlashCardApp:
         self.studySet.sort(key=lambda c: c.getTimeToNext())
         self.currentCard = self.studySet[0]
         self.isRevealed = False
+        self.wasRevealed = False
 
         timeRemaining = self.currentCard.getTimeToNext()
         if timeRemaining>0:
+            self.img = None
             self.forceStopWait = False
             self.countdown()
         else:
             self.mainLabelText.set(self.currentCard.eng)
-        
+            if self.currentCard.image==None:
+                self.img = None
+            else:
+                self.img = PIL.ImageTk.PhotoImage(self.currentCard.getImage())
+        self.secondaryLabel.configure(image=self.img)
+        self.secondaryLabel.image = self.img
+
     def summarize(self):
         if self.deck==None:
             return
@@ -167,6 +231,9 @@ class FlashCardApp:
         self.studySet = None
         self.currentCard = None
         self.mainLabelText.set("Click 'Study Kanji' or 'Study Vocab' to begin!")
+        self.img = None
+        self.secondaryLabel.configure(image=self.img)
+        self.secondaryLabel.image = self.img
         
     def speak(self):
         if self.currentCard==None:

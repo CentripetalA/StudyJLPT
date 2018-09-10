@@ -12,7 +12,8 @@ import random
 import json
 import Settings as S
 import Utils as U
-
+import PIL
+import io
 
 class Card:
     maxStudyGroup = S.maxStudyGroup
@@ -23,6 +24,9 @@ class Card:
             self.kanji = kanji
             self.cardType = cardType
             self.reset()
+            self.image = None
+            self.imageIndex = None
+            self.desiredImageIndex = 0
         elif type(eng)==dict:
             self.reset()
             for key in eng:
@@ -92,7 +96,43 @@ class Card:
         self.totalCorrect = 0
         self.ambiguous = 0
         self.lastSeen = time.time()
+    def viewImage(self):
+        if self.image==None:
+            return
+        image = PIL.Image.open(io.BytesIO(bytes.fromhex(self.image)))
+        image.show()
+        
+    def getImage(self):
+        if self.image==None:
+            return None
+        return PIL.Image.open(io.BytesIO(bytes.fromhex(self.image)))
     
+    def changePicture(self):
+        if self.imageIndex==self.desiredImageIndex:
+            self.image = None
+            self.imageIndex = None
+            self.desiredImageIndex += 1
+        im,successful = U.changeOnePicture(self)
+        if not successful:
+            print ("unable to change the picture for this card.")
+        else:
+            print ("successfully changed picture")
+            
+    def revertPicture(self):
+        if self.imageIndex==self.desiredImageIndex:
+            self.image = None
+            self.imageIndex = None
+            self.desiredImageIndex = max(0,self.desiredImageIndex-1)
+        im,successful = U.changeOnePicture(self)
+        if not successful:
+            print ("unable to change the picture for this card.")
+        else:
+            print ("successfully changed picture")
+            
+    def clearPicture(self):
+        self.image = None
+        self.imageIndex = None
+            
 class Deck:
     maxStudyGroup = S.maxStudyGroup
     def __init__(self,name,cards=[],binSize=20,randomize=False):
