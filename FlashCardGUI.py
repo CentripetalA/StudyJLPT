@@ -167,6 +167,12 @@ class FlashCardApp:
         if timeRemaining<=0:
             self.waiting = False
             self.mainLabelText.set(self.currentCard.eng)
+            if self.currentCard.image==None:
+                self.img = None
+            else:
+                self.img = PIL.ImageTk.PhotoImage(self.currentCard.getImage())
+            self.secondaryLabel.configure(image=self.img)
+            self.secondaryLabel.image = self.img
             #display card
             return
         else:
