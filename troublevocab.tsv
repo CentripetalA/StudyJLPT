@@ -1,0 +1,321 @@
+Kanji	Hiragana	English	SuccessRate
+盛り	さかり	helping, serving	0.61
+解決	かいけつ	settlement, solution, resolution	0.62
+限る	かぎる	to restrict, to limit, to confine	0.62
+輸入	ゆにゅう・する	to import	0.64
+灰皿	はいざら	ashtray	0.64
+豊か	ゆたか	abundant, wealthy, plentiful, rich	0.65
+稼ぐ	かせぐ	to earn income, to labor	0.65
+柔らかい	やわらかい	soft	0.67
+状態	じょうたい	condition, situation, circumstances, state	0.67
+油	あぶら	oil	0.67
+企業	きぎょう	enterprise, undertaking	0.68
+無視	むし	disregard, ignore	0.69
+貴重	きちょう	precious, valuable	0.69
+裏	うら	reverse side	0.69
+減らす	へらす	to abate, to decrease, to diminish, to shorten	0.69
+組織	そしき	(1) organization, (2) structure, construction, (3) tissue, (4) system	0.7
+隠れる	かくれる	to hide, to be hidden, to conceal oneself, to disappear	0.7
+経由	けいゆ	go by the way, via	0.7
+飾る	かざる	to decorate	0.71
+柄	がら	hilt (of a sword), haft (of a dagger), handgrip	0.71
+偉大	いだい	greatness	0.71
+節約	せつやく	economising, saving	0.72
+関心	かんしん	concern, interest	0.73
+お見舞い	おみまい	calling on someone who is ill, enquiry	0.73
+述べる	のべる	to state, to express, to mention	0.73
+	きっと	surely	0.73
+警告	けいこく	warning, advice	0.73
+退屈	たいくつ	tedium, boredom	0.74
+明らか	あきらか	obvious, evident, clear	0.74
+道徳	どうとく	morals	0.74
+支度	したく・する	to prepare	0.74
+見当	けんとう	be found, aim, estimate, guess, approx	0.74
+人込み	ひとごみ	crowd of people	0.75
+需要	じゅよう	demand, request	0.75
+注ぐ	つぐ	to pour (into), to irrigate, to pay	0.75
+議論	ぎろん	argument, discussion, dispute	0.75
+強調	きょうちょう	emphasis, stress, stressed point	0.75
+職	しょく	employment	0.75
+議会	ぎかい	Diet, congress, parliament	0.76
+作業	さぎょう	work, operation, manufacturing, fatigue duty	0.76
+設備	せつび	equipment, device, facilities, installation	0.76
+次第	しだい	(1) order, precedence, (2) circumstances, (3) immediate(ly)	0.76
+横断	おうだん	crossing	0.76
+具体	ぐたい	concrete, tangible, material	0.76
+新た	あらた	new, fresh, novel	0.76
+陽気	ようき	season, weather, cheerfulness	0.76
+従う	したがう	to abide (by the rules), to obey, to follow, to accompany	0.76
+修理	しゅうり	repairing, mending	0.77
+したがって	したがって	therefore, consequently, in accordance with	0.77
+機会	きかい	opportunity	0.77
+諺	ことわざ	proverb, maxim	0.77
+欠陥	けっかん	defect, fault, deficiency	0.77
+省く	はぶく	to omit, to eliminate, to curtail, to economize	0.77
+候補	こうほ	candidacy	0.77
+瞬間	しゅんかん	moment, second, instant	0.78
+為る	なる	to change, to be of use, to reach to	0.78
+基づく	もとづく	to be grounded on, to be based on, to be due to, to originate from	0.78
+越す	こす	to go over (e.g. with audience)	0.78
+物音	ものおと	sounds	0.78
+占める	しめる	(1) to comprise, to account for, to make up (of), (2) to hold, to occupy	0.78
+角	すみ	horn	0.78
+品物	しなもの	goods	0.78
+見物	けんぶつ	sightseeing	0.78
+開始	かいし	start, commencement, beginning	0.78
+支給	しきゅう	payment, allowance	0.78
+世の中	よのなか	society, the world, the times	0.78
+発行	はっこう	issue (publications)	0.79
+激しい	はげしい	violent, vehement, intense	0.79
+明確	めいかく	clear up, clarify, define	0.79
+噂	うわさ	rumour, report, gossip, common talk	0.79
+依頼	いらい	(1) request, commission, dispatch, (2) dependence, trust	0.79
+逆らう	さからう	to go against, to oppose, to disobey, to defy	0.79
+方向	ほうこう	direction, course, way	0.79
+	ちゃわん	rice bowl	0.8
+女子	じょし	woman, girl	0.8
+熱帯	ねったい	tropics	0.8
+不自由	ふじゆう	discomfort, disability, inconvenience, destitution	0.8
+	これら	these	0.8
+墓	はか	grave, tomb	0.8
+承認	しょうにん	recognition, acknowledgement, approval, consent, agreement	0.8
+宿	やど	inn, lodging	0.8
+支配	しはい	rule, control, direction	0.8
+細かい	こまかい	small,  fine	0.8
+製品	せいひん	manufactured goods, finished goods	0.8
+会計	かいけい	account, finance, accountant	0.8
+哀れ	あわれ	helpless, pity, sorrow, grief	0.81
+重大	じゅうだい	serious, important, grave, weighty	0.81
+投票	とうひょう	voting, poll	0.81
+止す	よす	to cease, to abolish, to resign, to give up	0.81
+料金	りょうきん	fee, charge, fare	0.81
+素	もと	prime	0.81
+粉	こな	flour, meal, powder	0.81
+平等	びょうどう	equality (a), impartiality, evenness	0.81
+結局	けっきょく	after all, eventually	0.81
+扱う	あつかう	to handle, to deal with, to treat	0.81
+	たまらない	intolerable, unbearable, unendurable	0.82
+熱心	ねっしん	zeal, enthusiasm	0.82
+恩	おん	favour, obligation, debt of gratitude	0.82
+同一	どういつ	identity, sameness, similarity	0.82
+便り	たより	news, tidings, information, correspondence, letter	0.82
+影響	えいきょう	influence, effect	0.82
+豊富	ほうふ	abundance, wealth, plenty, bounty	0.82
+真似	まね	mimicry, imitation, behavior, pretense	0.82
+度	たび	counter for occurrences	0.82
+輝く	かがやく	to shine, to glitter, to sparkle	0.83
+囲む	かこむ	to surround, to encircle	0.83
+感覚	かんかく	sense, sensation	0.83
+契約	けいやく	contract, compact, agreement	0.83
+駐車場	ちゅうしゃじょう	parking lot	0.83
+労働	ろうどう	manual labor, toil, work	0.83
+上達	じょうたつ	improvement, advance, progress	0.83
+実際	じっさい	practical, actual condition, status quo	0.83
+答案	とうあん	examination paper, examination script	0.83
+否定	ひてい	negation, denial, repudiation	0.83
+再び	ふたたび	again, once more, a second time	0.83
+	やっと	at last	0.83
+大した	たいした	considerable, great, important, significant, a big deal	0.83
+以前	いぜん	ago, since, before, previous	0.83
+具合	ぐあい	condition, health	0.83
+火災	かさい	conflagration, fire	0.83
+資本	しほん	funds, capital	0.83
+遅刻	ちこく	lateness, late coming	0.83
+	いらいら	getting nervous, irritation	0.83
+都	と	metropolitan	0.83
+解ける	とける	to come untied, to come apart	0.83
+訪問	ほうもん	call, visit	0.83
+親友	しんゆう	close friend, buddy	0.83
+与える	あたえる	to give, to present, to award	0.84
+	なるべく	as much as possible	0.84
+預ける	あずける	to give into custody, to entrust, to deposit	0.85
+離れる	はなれる	to be separated from, to leave, to go away, to be a long way off	0.85
+劣る	おとる	to fall behind, to be inferior to	0.85
+	そのうち	eventually, sooner or later, of the previously mentioned	0.85
+年齢	ねんれい	age, years	0.85
+作物	さくもつ	produce (e.g. agricultural), crops	0.85
+	あるいは	or, possibly	0.85
+板	いた	board, plank	0.85
+覆う	おおう	to cover, to hide, to conceal, to wrap, to disguise	0.86
+一家	いっか	a house, a home, a family, a household	0.86
+手術	しゅじゅつ	surgical operation	0.86
+商人	しょうにん	trader, shopkeeper, merchant	0.86
+太陽	たいよう	sun, solar	0.86
+品	ひん	thing, article, goods, dignity, article (goods), counter for meal courses	0.86
+友人	ゆうじん	friend	0.86
+増す	ます	to increase, to grow	0.86
+用	よう	use	0.86
+	あんな	such	0.86
+治る	なおる	to be cured, to heal	0.86
+化粧	けしょう	make-up (cosmetic)	0.86
+案	あん	plan, suffix meaning draft	0.86
+	ストーブ	heater	0.86
+	ほぼ	almost, roughly, approximately	0.86
+都市	とし	town, city, municipal, urban	0.87
+罪	つみ	crime, fault, indiscretion	0.87
+玄関	げんかん	entry hall	0.87
+様	よう	way, manner, kind	0.87
+	そこで	so (conj), accordingly, now, then, thereupon	0.87
+助手	じょしゅ	helper, helpmeet, assistant, tutor	0.87
+暗い	くらい	gloomy	0.88
+図	ず	figure (e.g. Fig 1), drawing, picture, illustration	0.88
+座席	ざせき	seat	0.88
+安定	あんてい	stability, equilibrium	0.88
+不平	ふへい	complaint, discontent, dissatisfaction	0.88
+旧	きゅう	ex-	0.88
+	どうしても	by all means, at any cost, no matter what	0.88
+男子	だんし	youth, young man	0.88
+別れ	わかれ	parting, separation, farewell	0.88
+掴む	つかむ	to seize, to catch, to grasp	0.88
+暮らし	くらし	living, livelihood, subsistence, circumstances	0.88
+認める	みとめる	to recognize, to appreciate, to approve, to admit, to notice	0.88
+間	ま	space, room, time, pause	0.88
+部長	ぶちょう	head of a section	0.88
+下り	くだり	down-train (going away from Tokyo)	0.88
+棒	ぼう	pole, rod, stick	0.88
+数字	すうじ	numeral, figure	0.88
+級	きゅう	class,  grade,  rank, school class,  grade	0.88
+梅雨	つゆ	rainy season, rain during the rainy season	0.88
+偶々	たまたま	casually, unexpectedly, accidentally, by chance	0.88
+他	た	other (esp. places and things)	0.88
+地方	ちほう	area, locality, district, region, the coast	0.88
+議員	ぎいん	member of the Diet,  congress or parliament	0.88
+観察	かんさつ	observation, survey	0.88
+上等	じょうとう	superiority, first class, very good	0.88
+住所	じゅうしょ	an address, a residence	0.88
+縦	たて	length, height	0.88
+脇	わき	side	0.88
+	とんでもない	unexpected, offensive, What a thing to say!, No way!	0.88
+万一	まんいち	by some chance, by some possibility, if by any chance, 10E4:1 odds	0.88
+出版	しゅっぱん	publication	0.88
+辞典	じてん	dictionary	0.88
+水道	すいどう	water supply	0.88
+区別	くべつ	distinction, differentiation, classification	0.88
+留学	りゅうがく	studying abroad	0.88
+微笑む	ほほえむ	to smile	0.88
+味噌	みそ	bean paste	0.88
+日付	ひづけ	date, dating	0.88
+人類	じんるい	mankind, humanity	0.88
+食欲	しょくよく	appetite (for food)	0.88
+克服	こくふく	subjugation, conquest	0.88
+女王	じょおう	queen	0.88
+針	はり	needle, hand (e.g. clock)	0.88
+主要	しゅよう	chief, main, principal, major	0.88
+左右	さゆう	(1) left and right, (2) influence, control, domination	0.88
+双子	ふたご	twins, a twin	0.88
+入場	にゅうじょう	entrance, admission, entering	0.88
+食糧	しょくりょう	provisions, rations	0.88
+微妙	びみょう	delicate, subtle	0.88
+尤も	もっとも	quite right, plausible, natural, but then, although	0.88
+議長	ぎちょう	chairman	0.88
+本棚	ほんだな	bookshelves	0.88
+物価	ぶっか	prices of commodities, prices (in general)	0.88
+暮れる	くれる	to get dark, to come to an end	0.88
+	ところで	by the way, even if, no matter what	0.88
+昼食	ちゅうしょく	lunch, midday meal	0.88
+招待	しょうたい・する	to invite	0.88
+絹	きぬ	silk	0.88
+通じる	つうじる	to run to, to lead to, to communicate, to understand	0.88
+怠ける	なまける	to be idle, to neglect	0.88
+技師	ぎし	engineer, technician	0.88
+骨折	こっせつ	bone fracture	0.88
+章	しょう	(1) chapter, section, (2) medal	0.88
+資源	しげん	resources	0.88
+批評	ひひょう	criticism, review, commentary	0.88
+明ける	あける	to dawn, to become daylight	0.89
+植える	うえる	to plant, to grow	0.89
+夜中	よなか	midnight, dead of night	0.89
+幅	はば	width, breadth	0.89
+鉄道	てつどう	railroad	0.89
+持ち上げる	もちあげる	to raise, to lift up, to flatter	0.89
+沖	おき	open sea	0.89
+札	さつ	(1) token, label, (2) ticket, (3) charm	0.89
+共に	ともに	sharing with, participate in	0.89
+欠点	けってん	faults, defect, weakness	0.89
+活動	かつどう	action, activity	0.89
+合う	あう	to match	0.89
+済む	すむ	to finish	0.89
+年月	としつき	months and years	0.89
+交番	こうばん	police box	0.89
+昨夜	ゆうべ	last night	0.89
+返す	かえす	to return something	0.89
+他人	たにん	another person, unrelated person, outsider, stranger	0.89
+段	だん	step, stair, flight of steps, grade, rank, level	0.89
+電報	でんぽう	telegram	0.89
+委員	いいん	committee member	0.89
+瓶	びん	bottle	0.89
+お祝い	おいわい	congratulation	0.89
+	かまう	to mind	0.89
+物語	ものがたり	tale, story, legend	0.89
+空く	すく	(1) to open, to become empty, (2) to be less crowded	0.89
+差	さ	difference, variation	0.89
+大気	たいき	atmosphere	0.89
+務め	つとめ	(1) service, duty, (2) Buddhist religious services	0.89
+軒	けん	eaves	0.89
+宇宙	うちゅう	universe, cosmos, space	0.89
+縄	なわ	rope, hemp	0.89
+明かり	あかり	lamplight, light (in general), brightness	0.9
+	あいにく	unfortunately, Sorry,  but....	0.91
+飽きる	あきる	to get tired of, to lose interest in, to have enough	0.91
+身体	しんたい	the body	0.91
+合図	あいず	sign, signal	0.93
+空き	あき	room, time to spare, emptiness	0.93
+辺り	あたり	vicinity, nearby	0.93
+全員	ぜんいん	all members (unanimity), all hands, the whole crew	0.93
+通す	とおす	to let pass, to overlook, to continue	0.93
+全体	ぜんたい	whole, entirety, whatever (is the matter)	0.93
+愛情	あいじょう	love, affection	1.0
+愛する	あいする	to love	1.0
+握手	あくしゅ	handshake	1.0
+悪魔	あくま	devil, demon, evil spirit	1.0
+汗	あせ	sweat, perspiration	1.0
+当たる	あたる	to be hit, to be successful, to be equivalent to	1.0
+	あちこち	here and there	1.0
+集まり	あつまり	gathering, meeting, assembly, collection	1.0
+当てる	あてる	to hit, to apply a patch	1.0
+印刷	いんさつ	printing	1.0
+新鮮	しんせん	fresh	1.0
+	もし	if	1.0
+鍋	なべ	saucepan, pot	1.0
+地	ち	earth	1.0
+注文	ちゅうもん	order, request	1.0
+届く	とどく	to reach	1.0
+遂に	ついに	finally, at last	1.0
+選手	せんしゅ	(1) player (in game), (2) team	1.0
+	バン	bun, van (caravan), VAN (value-added network)	1.0
+味方	みかた	friend, ally, supporter	1.0
+違いない	ちがいない	(phrase) sure, no mistaking it, for certain	1.0
+	ダイヤ	(1) dyer, (2) diagram, (3) (railway) schedule, (4) diamond	1.0
+	ラジカセ / ラジオカセット	radio cassette player	1.0
+片付ける	かたづける	to tidy up	1.0
+医学	いがく	medical science	1.0
+	ピン	pin	1.0
+奥さん	おくさん	(honorable) wife	1.0
+込む	こむ	to be crowded	1.0
+お互い	おたがい	mutual, reciprocal, each other	1.0
+家賃	やちん	rent	1.0
+捕まる	つかまる	to be caught, to be arrested	1.0
+密	みつ	secrecy, density (pop), minuteness, carefulness	1.0
+大抵	たいてい	usually, generally	1.0
+描く	かく	to draw, to paint, to sketch, to depict, to describe	1.0
+	ぶどう	grapes	1.0
+岩	いわ	rock, crag	1.0
+国語	こくご	national language	1.0
+歌手	かしゅ	singer	1.0
+汽車	きしゃ	steam train	1.0
+	さて	well, now, then	1.0
+打つ	うつ	to hit	1.0
+猿	さる	monkey	1.0
+それ	（接。感）	it, that	1.0
+従兄弟	いとこ	cousin (male)	1.0
+奪う	うばう	to snatch away	1.0
+予約	よやく	reservation	1.0
+	つける	to turn on	1.0
+浴びる	あびる	to bathe, to bask in the sun, to shower	1.0
+	ねっしん	enthusiasm	1.0
+転ぶ	ころぶ	to fall down, to fall over	1.0
+動かす	うごかす	to move, to shift	1.0
+党	とう	party (political)	1.0
+親切	しんせつ	kindness	1.0
+生	せい	(1) draft (beer), (2) raw, unprocessed	1.0
+	そっくり	all, altogether, entirely, be just like, the splitting image of	1.0
