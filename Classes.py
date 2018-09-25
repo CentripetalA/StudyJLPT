@@ -393,20 +393,27 @@ class Deck:
             print("Done saving.")
         
     def summarize(self,maxShow=-1):
+        output = ""
         line = "{0} stacks of cards. At most {1} cards allowed per stack".format(len(self.bins), self.binSize)
-        print (line)
+        output += line + "\n"
         
         line = "{0} cards in {1} deck. Showing {2} cards".format(len(self.cards),self.name, maxShow)
-        print (line)
+        output += line + "\n"
 
         count = 0
+        over8hours = 0
         for card in self.cards:
             count += 1
             if maxShow>=0 and count>maxShow:
                 break
+            if card.getTimeToNext()>=28800:
+                over8hours += 1
+                continue
             content = (card,card.totalCorrect,card.timesCorrect,card.misses,card.studyGroup,round(card.getTimeToNext(),2))
             line = "{0} \ttotal correct:{1} \tconsecutive correct:{2} \tmisses:{3} \tstudy group:{4}. \t{5} seconds until next appearance.".format(*content)
-            print (line)
+            output += line + "\n"
+        line = "plus "+over8hours+" items with a wait time over 8 hours"
+        output += line + "\n"
     def summarizeStack(self,stack):
         if stack<0:
             return
@@ -437,10 +444,14 @@ class Deck:
                 print ("Cannot study stack:",stack)
                 return
         output = "Studying {0} cards using spaced repetition technique. These include cards from stack(s) {1}.\n".format(len(cards),stack)
-        
+        extra = 0
         for card in cards:
+            if card.getTimeToNext()>=28800:
+                extra += 1
+                continue
             content = (card.eng,round(card.getTimeToNext(),2))
             output += "{0} \t{1} seconds until next appearance.\n".format(*content)
+        output += "plus {0} extra items with more than 8 hour wait time.\n".format(extra)
         print (output)
         return output
         

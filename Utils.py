@@ -49,6 +49,27 @@ def printCardsSortedByTrouble(deckname):
     print (output)
     return output
 
+def printCardsSortedByTrouble2(deckname):
+    deck = getDeck(deckname)
+    allCards = []
+    for s in S.studySet[deck.name]:
+        allCards.extend(deck.bins[s])
+        
+    allCards.sort(key=lambda c: c.timesCorrect, reverse=False)
+    
+    output = "Kanji\tHiragana\tEnglish\tSuccessRate\n"
+    
+    for c in allCards:
+        content = (c.kanji,c.hiragana,c.eng,round(c.totalCorrect/(c.misses+c.totalCorrect),2))
+        output += "{0}\t{1}\t{2}\t{3}\n".format(*content)
+        
+    fileName = "trouble2"+deckname+".tsv"
+    with open(fileName,"w", encoding="utf-8") as f:
+        f.write(output)
+        
+    print (output)
+    return output
+
 def getCardImage(card,imageIndex=0):
     imageURL = ""
     searchText = card.kanji
