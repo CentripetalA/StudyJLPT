@@ -56,33 +56,42 @@ class FlashCardApp:
         
         self.incorrectButton = tkinter.Button(self.buttonFrame,text="Incorrect",command=self.incorrect)
         self.incorrectButton.grid(row=0,column=2, sticky=tkinter.EW)
+
+        self.correctButton = tkinter.Button(self.buttonFrame,text="Shaky",command=self.shaky)
+        self.correctButton.grid(row=1,column=0, sticky=tkinter.EW)
+
+        self.correctButton = tkinter.Button(self.buttonFrame,text="Easy",command=self.easy)
+        self.correctButton.grid(row=1,column=1, sticky=tkinter.EW)
+
+        self.correctButton = tkinter.Button(self.buttonFrame,text="Almost",command=self.almost)
+        self.correctButton.grid(row=1,column=2, sticky=tkinter.EW)
         
         self.studyKanjiButton = tkinter.Button(self.buttonFrame,text="Study Kanji",command=self.studyKanji)
-        self.studyKanjiButton.grid(row=1,column=0, sticky=tkinter.EW)
+        self.studyKanjiButton.grid(row=2,column=0, sticky=tkinter.EW)
         
         self.studyVocabButton = tkinter.Button(self.buttonFrame,text="Study Vocab",command=self.studyVocab)
-        self.studyVocabButton.grid(row=1,column=1, sticky=tkinter.EW)
+        self.studyVocabButton.grid(row=2,column=1, sticky=tkinter.EW)
                 
         self.summarizeButton = tkinter.Button(self.buttonFrame,text="Summarize",command=self.summarize)
-        self.summarizeButton.grid(row=1,column=2, sticky=tkinter.EW)
+        self.summarizeButton.grid(row=2,column=2, sticky=tkinter.EW)
         
         self.speakButton = tkinter.Button(self.buttonFrame,text="Change Picture",command=self.changeCardPicture)
-        self.speakButton.grid(row=2,column=0, sticky=tkinter.EW)
-        
-        self.doneButton = tkinter.Button(self.buttonFrame,text="Revert Picture",command=self.revertCardPicture)
-        self.doneButton.grid(row=2,column=1, sticky=tkinter.EW)
-
-        self.quitButton = tkinter.Button(self.buttonFrame,text="Clear Picture",command=self.clearCardPicture)
-        self.quitButton.grid(row=2,column=2, sticky=tkinter.EW)
-        
-        self.speakButton = tkinter.Button(self.buttonFrame,text="Speak",command=self.speak)
         self.speakButton.grid(row=3,column=0, sticky=tkinter.EW)
         
-        self.doneButton = tkinter.Button(self.buttonFrame,text="Done",command=self.done)
+        self.doneButton = tkinter.Button(self.buttonFrame,text="Revert Picture",command=self.revertCardPicture)
         self.doneButton.grid(row=3,column=1, sticky=tkinter.EW)
 
-        self.quitButton = tkinter.Button(self.buttonFrame,text="Quit",command=self.quitApp)
+        self.quitButton = tkinter.Button(self.buttonFrame,text="Clear Picture",command=self.clearCardPicture)
         self.quitButton.grid(row=3,column=2, sticky=tkinter.EW)
+        
+        self.speakButton = tkinter.Button(self.buttonFrame,text="Speak",command=self.speak)
+        self.speakButton.grid(row=4,column=0, sticky=tkinter.EW)
+        
+        self.doneButton = tkinter.Button(self.buttonFrame,text="Done",command=self.done)
+        self.doneButton.grid(row=4,column=1, sticky=tkinter.EW)
+
+        self.quitButton = tkinter.Button(self.buttonFrame,text="Quit",command=self.quitApp)
+        self.quitButton.grid(row=4,column=2, sticky=tkinter.EW)
         
     def nothing(self):
         pass
@@ -108,6 +117,15 @@ class FlashCardApp:
         
     def incorrect(self):
         self.updateCard(0)
+        
+    def easy(self):
+        self.updateCard(2)
+        
+    def shaky(self):
+        self.updateCard(-2)
+        
+    def almost(self):
+        self.updateCard(-1)
         
     def updateCard(self,value):
         if self.waiting:

@@ -27,6 +27,7 @@ class Card:
             self.image = None
             self.imageIndex = None
             self.desiredImageIndex = 0
+
         elif type(eng)==dict:
             self.reset()
             for key in eng:
@@ -71,9 +72,25 @@ class Card:
     def updateCardSpacedRepetition(self,correct):
         self.lastSeen = time.time()
         if correct>0:
+            if (self.totalCorrect+self.misses==0):
+                self.timesCorrect += 5 #if correct on first attempt bump it up a couple groups
+            if correct==2:
+                #easy
+                self.timesCorrect += 1
             self.timesCorrect += 1
             self.totalCorrect += 1
+        elif correct==-1:
+            #almost
+            self.almost += 1
+            self.timesCorrect //= 2
+        elif correct==-2:
+            #correct but not confident
+            #keep on the same wait scale except if it was a first attempt then bump 2
+            if (self.totalCorrect+self.misses==0):
+                self.timesCorrect += 3 #if correct on first attempt bump it up a couple groups
+            self.totalCorrect += 1
         else:
+            #incorrect
             self.timesCorrect = 0
             self.misses += 1
 
@@ -95,6 +112,7 @@ class Card:
         self.misses = 0
         self.totalCorrect = 0
         self.ambiguous = 0
+        self.almost = 0
         self.lastSeen = time.time()
     def viewImage(self):
         if self.image==None:
@@ -445,13 +463,17 @@ class Deck:
                 return
         output = "Studying {0} cards using spaced repetition technique. These include cards from stack(s) {1}.\n".format(len(cards),stack)
         extra = 0
+        due = 0
         for card in cards:
             if card.getTimeToNext()>=28800:
                 extra += 1
                 continue
+            if card.getTimeToNext()<=0:
+                due += 1
             content = (card.eng,round(card.getTimeToNext(),2))
             output += "{0} \t{1} seconds until next appearance.\n".format(*content)
         output += "plus {0} extra items with more than 8 hour wait time.\n".format(extra)
+        output += "{0} cards due for study.\n".format(due)
         print (output)
         return output
         
