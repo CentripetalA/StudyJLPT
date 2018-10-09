@@ -14,6 +14,8 @@ import subprocess
 from gtts import gTTS
 import threading
 import PIL.Image,PIL.ImageTk
+import time
+import playsound,os,random
 
 class FlashCardApp:
     def __init__(self,master):
@@ -44,6 +46,38 @@ class FlashCardApp:
         self.secondaryLabel = tkinter.Label(self.displayFrame, image=self.img)
         self.secondaryLabel.pack()
         
+        #status panel
+        self.statusFrame = tkinter.Frame(master)
+        self.statusFrame.grid(row=0,column=0, sticky=tkinter.EW)
+        
+        self.timeSinceLastLabelText = tkinter.StringVar()
+        self.timeSinceLastLabel = tkinter.Label(self.statusFrame, textvariable=self.timeSinceLastLabelText)
+        self.timeSinceLastLabel.grid(row=0,column=0, sticky=tkinter.EW,columnspan=3)
+        
+        self.cardsRemainingLabelText = tkinter.StringVar()
+        self.cardsRemainingLabel = tkinter.Label(self.statusFrame, textvariable=self.cardsRemainingLabelText)
+        self.cardsRemainingLabel.grid(row=1,column=0, sticky=tkinter.EW,columnspan=3)
+        
+        self.binLabels = []
+        self.binLabelTexts = []
+        self.binCountLabels = []
+        self.binCountLabelTexts = []
+        for i in range(len(S.timeToNext)):
+            b = S.timeToNext[i]
+            binLabelText = tkinter.StringVar()
+            binLabel = tkinter.Label(self.statusFrame, textvariable=binLabelText)
+            binLabel.grid(row=2,column=i, sticky=tkinter.EW)
+            binLabelText.set(U.convertSecondsToTimeString(b,1))
+            self.binLabels.append(binLabel)
+            self.binLabelTexts.append(binLabelText)
+            
+            binCountLabelText = tkinter.StringVar()
+            binCountLabel = tkinter.Label(self.statusFrame, textvariable=binCountLabelText)
+            binCountLabel.grid(row=3,column=i, sticky=tkinter.EW)
+            binCountLabelText.set("0")
+            self.binCountLabels.append(binCountLabel)
+            self.binCountLabelTexts.append(binCountLabelText)
+            
         #buttons
         self.buttonFrame = tkinter.Frame(master)
         self.buttonFrame.grid(row=2,column=0)
@@ -177,6 +211,44 @@ class FlashCardApp:
         self.secondaryLabel.configure(image=self.img)
         self.secondaryLabel.image = self.img
     
+    def updateTimeSinceLastSeen(self):
+        if self.waiting:
+            return
+        if self.currentCard==None:
+            return
+        timeString = self.currentCard.getTimeSinceLastSeen()
+        self.timeSinceLastLabelText.set(timeString)
+        realWait = U.closestWaitLessThan(time.time()-self.currentCard.lastSeen)
+        for i in range(len(self.binLabels)):
+            if (realWait>self.currentCard.timesCorrect) and (i==realWait):
+                self.binLabels[i].config(fg="blue")
+            elif i==self.currentCard.timesCorrect:
+                self.binLabels[i].config(fg="red")
+            else:
+                self.binLabels[i].config(fg="black")
+    def updateCardsRemaining(self):
+        if self.studySet==None:
+            return
+        cardsRemaining = 0
+        binCount = {}
+        for i in range(len(self.binCountLabelTexts)):
+            binCount[i] = 0
+        
+        for c in self.studySet:
+            if c.getTimeToNext()<=0:
+                cardsRemaining += 1
+            binCount[c.timesCorrect] += 1
+        self.cardsRemainingLabelText.set("{0} cards remaining to study".format(cardsRemaining))
+        
+        for i in range(len(self.binCountLabelTexts)):
+            self.binCountLabelTexts[i].set(str(binCount[i]))
+            
+    def cleanStatusFrame(self):
+        self.updateCardsRemaining()
+        self.timeSinceLastLabelText.set("")
+        for i in range(len(self.binLabels)):
+            self.binLabels[i].config(fg="black")
+    
     def countdown(self):
         if self.forceStopWait:
             self.waiting=False
@@ -184,28 +256,26 @@ class FlashCardApp:
         timeRemaining = self.currentCard.getTimeToNext()
         if timeRemaining<=0:
             self.waiting = False
-            self.mainLabelText.set(self.currentCard.eng)
-            if self.currentCard.image==None:
-                self.img = None
-            else:
-                self.img = PIL.ImageTk.PhotoImage(self.currentCard.getImage())
-            self.secondaryLabel.configure(image=self.img)
-            self.secondaryLabel.image = self.img
+
             #display card
-            return
+            return self.getAndDisplayNextCard()
         else:
             self.waiting = True
-            self.mainLabelText.set("Next card will display after {0} seconds!".format(round(timeRemaining)))
+            timeRemainingStr = U.convertSecondsToTimeString(timeRemaining)
+            self.mainLabelText.set("Next card will display in {0}!".format(timeRemainingStr))
             self.master.after(1000,self.countdown)
+            
 
     def studyKanji(self):
         self.forceStopWait = True
+        self.waiting = False
         self.done()
         self.deck = U.getDeck("kanji")
         self.startStudy()
         
     def studyVocab(self):
         self.forceStopWait = True
+        self.waiting = False
         self.done()
         self.deck = U.getDeck("vocab")
         self.startStudy()
@@ -226,7 +296,8 @@ class FlashCardApp:
         self.currentCard = self.studySet[0]
         self.isRevealed = False
         self.wasRevealed = False
-
+        self.cleanStatusFrame()
+        
         timeRemaining = self.currentCard.getTimeToNext()
         if timeRemaining>0:
             self.img = None
@@ -238,6 +309,7 @@ class FlashCardApp:
                 self.img = None
             else:
                 self.img = PIL.ImageTk.PhotoImage(self.currentCard.getImage())
+            self.updateTimeSinceLastSeen()
         self.secondaryLabel.configure(image=self.img)
         self.secondaryLabel.image = self.img
 
@@ -259,6 +331,8 @@ class FlashCardApp:
         self.secondaryLabel.configure(image=self.img)
         self.secondaryLabel.image = self.img
         
+        self.cleanStatusFrame()
+        
     def speak(self):
         if self.currentCard==None:
             return
@@ -276,7 +350,8 @@ class FlashCardApp:
             text = self.currentCard.hiragana
         tts = gTTS(text=text, lang=lang)
         tts.save(audio_file)
-        return_code = subprocess.call(["afplay", audio_file])
+#        return_code = subprocess.call(["afplay", audio_file])
+        playsound.playsound(audio_file)
 
     
 if __name__=="__main__":

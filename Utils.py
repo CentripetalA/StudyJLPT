@@ -111,4 +111,32 @@ def changeOnePicture(card):
     card.imageIndex = card.desiredImageIndex
     return card,True
     
+def convertSecondsToTimeString(timeSeconds,valuesToShow=3):
+    
+    timeBoxes = [1,60,60,24,30,12]
+    timeBoxesString = ["second(s)","minute(s)","hour(s)","day(s)","month(s)","year(s)"]
+    timeVal = timeSeconds
+    finalTimes = []
+    for i in range(len(timeBoxes)):
+        isDone = False
+        if (i==(len(timeBoxes)-1)) or (not timeVal//timeBoxes[i+1]):
+            timeVal2 = timeVal
+            isDone = True
+        elif timeVal//timeBoxes[i+1]:
+            timeVal2 = timeVal%timeBoxes[i+1]
+            timeVal = timeVal//timeBoxes[i+1]
+        timeVal2 = round(timeVal2)
+        timeString = ("{0} "+timeBoxesString[i]).format(timeVal2)
+        finalTimes.append(timeString)
+        
+        if isDone:
+            break
+    finalTimes.reverse()
+    return " ".join(finalTimes[0:valuesToShow])
+
+def closestWaitLessThan(timeSeconds):
+    for i in range(len(S.timeToNext)):
+        if timeSeconds<S.timeToNext[i]:
+            return max(0,i-1)
+    return i
     

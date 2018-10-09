@@ -70,10 +70,18 @@ class Card:
         self.studyGroup = 0
         
     def updateCardSpacedRepetition(self,correct):
+        prevLastSeen = self.lastSeen
         self.lastSeen = time.time()
         if correct>0:
             if (self.totalCorrect+self.misses==0):
                 self.timesCorrect += 5 #if correct on first attempt bump it up a couple groups
+                print("timesCorrect4:",self.timesCorrect)
+            else:
+                #if the real wait time for the card is more than the ideal wait time, 
+                #bump the card to the bin it would have been for the real wait
+                realBin = U.closestWaitLessThan(time.time()-prevLastSeen)
+                if realBin>self.timesCorrect:
+                    self.timesCorrect = realBin
             if correct==2:
                 #easy
                 self.timesCorrect += 1
@@ -104,8 +112,14 @@ class Card:
         
         #time remaining = how long we should wait - how long we have waited
         #cap at -1 because all overdue cards should be treated equally and randomized to prevent memorized ordering
-        return max(S.timeToNext[self.timesCorrect]-(time.time()-self.lastSeen),-1)
+        timeIndex = min(self.timesCorrect,len(S.timeToNext))
+        timeRemaining = S.timeToNext[timeIndex]-(time.time()-self.lastSeen)
+        if timeRemaining<0:
+            timeRemaining = -(len(S.timeToNext)-self.timesCorrect)
+        return timeRemaining
         
+    def getTimeSinceLastSeen(self):
+        return U.convertSecondsToTimeString(time.time()-self.lastSeen)
     def reset(self):
         self.studyGroup = 0
         self.timesCorrect = 0
