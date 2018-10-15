@@ -73,7 +73,7 @@ class Card:
         prevLastSeen = self.lastSeen
         self.lastSeen = time.time()
         if correct>0:
-            if (self.totalCorrect+self.misses==0):
+            if (self.totalCorrect+self.misses+self.almost==0):
                 self.timesCorrect += 5 #if correct on first attempt bump it up a couple groups
                 print("timesCorrect4:",self.timesCorrect)
             else:
@@ -94,7 +94,7 @@ class Card:
         elif correct==-2:
             #correct but not confident
             #keep on the same wait scale except if it was a first attempt then bump 2
-            if (self.totalCorrect+self.misses==0):
+            if (self.totalCorrect+self.misses+self.almost==0):
                 self.timesCorrect += 3 #if correct on first attempt bump it up a couple groups
             self.totalCorrect += 1
         else:
@@ -107,7 +107,7 @@ class Card:
         #negative numbers equal cards past due
         
         #if we haven't seen the card yet, give wait time of 0 (this should prioritize review over new cards)
-        if self.totalCorrect+self.misses==0:
+        if self.totalCorrect+self.misses+self.almost==0:
             return 0
         
         #time remaining = how long we should wait - how long we have waited
@@ -115,7 +115,7 @@ class Card:
         timeIndex = min(self.timesCorrect,len(S.timeToNext))
         timeRemaining = S.timeToNext[timeIndex]-(time.time()-self.lastSeen)
         if timeRemaining<0:
-            timeRemaining = -(len(S.timeToNext)-self.timesCorrect)
+            timeRemaining = -(len(S.timeToNext)-self.timesCorrect) - (1-(1/timeRemaining))
         return timeRemaining
         
     def getTimeSinceLastSeen(self):
