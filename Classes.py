@@ -115,7 +115,7 @@ class Card:
         timeIndex = min(self.timesCorrect,len(S.timeToNext))
         timeRemaining = S.timeToNext[timeIndex]-(time.time()-self.lastSeen)
         if timeRemaining<0:
-            timeRemaining = -(len(S.timeToNext)-self.timesCorrect) - (1-(1/timeRemaining))
+            timeRemaining = -(len(S.timeToNext)-self.timesCorrect) - (1+(1/timeRemaining))
         return timeRemaining
         
     def getTimeSinceLastSeen(self):

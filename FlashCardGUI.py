@@ -62,6 +62,8 @@ class FlashCardApp:
         self.binLabelTexts = []
         self.binCountLabels = []
         self.binCountLabelTexts = []
+        self.binCountLabels2 = []
+        self.binCountLabelTexts2 = []
         for i in range(len(S.timeToNext)):
             b = S.timeToNext[i]
             binLabelText = tkinter.StringVar()
@@ -77,6 +79,13 @@ class FlashCardApp:
             binCountLabelText.set("0")
             self.binCountLabels.append(binCountLabel)
             self.binCountLabelTexts.append(binCountLabelText)
+            
+            binCountLabelText2 = tkinter.StringVar()
+            binCountLabel2 = tkinter.Label(self.statusFrame, textvariable=binCountLabelText2)
+            binCountLabel2.grid(row=4,column=i, sticky=tkinter.EW)
+            binCountLabelText2.set("0")
+            self.binCountLabels2.append(binCountLabel2)
+            self.binCountLabelTexts2.append(binCountLabelText2)
             
         #buttons
         self.buttonFrame = tkinter.Frame(master)
@@ -231,17 +240,22 @@ class FlashCardApp:
             return
         cardsRemaining = 0
         binCount = {}
+        binCount2 = {}
         for i in range(len(self.binCountLabelTexts)):
             binCount[i] = 0
+            binCount2[i] = 0
         
         for c in self.studySet:
             if c.getTimeToNext()<=0:
                 cardsRemaining += 1
-            binCount[c.timesCorrect] += 1
+                binCount2[c.timesCorrect] += 1
+            else:
+                binCount[c.timesCorrect] += 1
         self.cardsRemainingLabelText.set("{0} cards remaining to study".format(cardsRemaining))
         
         for i in range(len(self.binCountLabelTexts)):
             self.binCountLabelTexts[i].set(str(binCount[i]))
+            self.binCountLabelTexts2[i].set(str(binCount2[i]))
             
     def cleanStatusFrame(self):
         self.updateCardsRemaining()
