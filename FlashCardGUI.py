@@ -115,8 +115,11 @@ class FlashCardApp:
         self.studyVocabButton = tkinter.Button(self.buttonFrame,text="Study Vocab",command=self.studyVocab)
         self.studyVocabButton.grid(row=2,column=1, sticky=tkinter.EW)
                 
+        self.studyKanji2Button = tkinter.Button(self.buttonFrame,text="Study Applied Kanji",command=self.studyKanji2)
+        self.studyKanji2Button.grid(row=2,column=2, sticky=tkinter.EW)
+                        
         self.summarizeButton = tkinter.Button(self.buttonFrame,text="Summarize",command=self.summarize)
-        self.summarizeButton.grid(row=2,column=2, sticky=tkinter.EW)
+        self.summarizeButton.grid(row=2,column=3, sticky=tkinter.EW)
         
         self.speakButton = tkinter.Button(self.buttonFrame,text="Change Picture",command=self.changeCardPicture)
         self.speakButton.grid(row=3,column=0, sticky=tkinter.EW)
@@ -149,9 +152,16 @@ class FlashCardApp:
         if self.currentCard==None:
             return
         if self.isRevealed:
-            self.mainLabelText.set(self.currentCard.eng)
+            if self.deck.name=="kanji2":
+                self.mainLabelText.set(self.currentCard.kanji)
+            else:
+                self.mainLabelText.set(self.currentCard.eng)
         else:
-            self.mainLabelText.set(str(self.currentCard))
+            if self.deck.name=="kanji2":
+                display = self.currentCard.hiragana+"\n"+self.currentCard.eng
+                self.mainLabelText.set(display)
+            else:
+                self.mainLabelText.set(str(self.currentCard))
         
         self.isRevealed = not self.isRevealed
         self.wasRevealed = True
@@ -287,6 +297,13 @@ class FlashCardApp:
         self.deck = U.getDeck("kanji")
         self.startStudy()
         
+    def studyKanji2(self):
+        self.forceStopWait = True
+        self.waiting = False
+        self.done()
+        self.deck = U.getDeck("kanji2")
+        self.startStudy()
+        
     def studyVocab(self):
         self.forceStopWait = True
         self.waiting = False
@@ -318,7 +335,10 @@ class FlashCardApp:
             self.forceStopWait = False
             self.countdown()
         else:
-            self.mainLabelText.set(self.currentCard.eng)
+            if self.deck.name=="kanji2":
+                self.mainLabelText.set(self.currentCard.kanji)
+            else:
+                self.mainLabelText.set(self.currentCard.eng)
             if self.currentCard.image==None:
                 self.img = None
             else:

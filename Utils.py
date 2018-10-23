@@ -139,4 +139,61 @@ def closestWaitLessThan(timeSeconds):
         if timeSeconds<S.timeToNext[i]:
             return max(0,i-1)
     return i
+
+def prepareKanjiDict2():
+    hiraganaSet = set()
+    kanjiSet = set()
     
+    with open(S.knownChars,encoding="utf-8") as f:
+        lineIndex = 0
+        for line in f:
+            for c in line:
+                if lineIndex<=17:
+                    hiraganaSet.add(c)
+                else:
+                    kanjiSet.add(c)
+            lineIndex += 1
+                
+    words = []
+    with open(S.fullVocab,encoding="utf-8") as f:
+        for line in f:
+            words.append(line[:-1].split("\t"))
+    words = words[1:]
+    print (len(words),"words at the loaded.")
+    size = list(range(len(words)))
+    size.reverse()
+    for i in size:
+        w = words[i]
+        if w[0]=="":
+            words.pop(i)
+            continue
+        
+        wordOk = True
+        for c in w[0]:
+            if (c not in hiraganaSet) and (c not in kanjiSet):
+                wordOk = False
+                break
+        if not wordOk:
+            words.pop(i)
+            continue
+        
+        wordOk = False
+        for c in w[0]:
+            if c in kanjiSet:
+                wordOk = True
+                break
+        if not wordOk:
+            words.pop(i) 
+            continue
+    print (len(words),"words remaining.")
+    
+    #make cards
+    cards = []
+    for w in words:
+        c = C.Card(eng=w[2],hiragana=w[1],kanji=w[0],cardType="kanji2")
+        cards.append(c)
+    
+    #make deck
+    deck = C.Deck("kanji2",cards=cards,binSize=20,randomize=True)
+    deck.save()
+    return deck

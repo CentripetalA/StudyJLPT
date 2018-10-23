@@ -37,7 +37,7 @@ class Card:
         return self.__str__()
 
     def __str__(self):
-        if self.cardType=="kanji":
+        if self.cardType=="kanji" or self.cardType=="kanji2":
             output = self.kanji
         else:
             output = self.hiragana
@@ -75,7 +75,6 @@ class Card:
         if correct>0:
             if (self.totalCorrect+self.misses+self.almost==0):
                 self.timesCorrect += 5 #if correct on first attempt bump it up a couple groups
-                print("timesCorrect4:",self.timesCorrect)
             else:
                 #if the real wait time for the card is more than the ideal wait time, 
                 #bump the card to the bin it would have been for the real wait

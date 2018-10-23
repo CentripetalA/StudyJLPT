@@ -19,6 +19,9 @@ fullKanji="Kanji.tsv"
 trimKanji="KanjiTrim.tsv"
 wordList = {"vocab":trimVocab,"kanji":trimKanji}
 
-studySet = {"vocab":range(91),"kanji":range(27)}
+studySet = {"vocab":range(91),"kanji":range(30),"kanji2":range(25)}
 
-saveFileNames = {"vocab":"savedVocabDeck.json","kanji":"savedKanjiDeck.json"}
+saveFileNames = {"vocab":"savedVocabDeck.json","kanji":"savedKanjiDeck.json","kanji2":"savedKanji2Deck.json"}
+
+
+knownChars = "charactersShouldKnow.txt"
