@@ -316,7 +316,7 @@ class FlashCardApp:
         self.studySet = []
         for s in stacks:
             self.studySet.extend(self.deck.bins[s])
-        line = "Studying {0} cards from stack {1}.".format(len(self.studySet),stacks)
+        line = "Studying {0} cards of {1} from stack {2}.".format(len(self.studySet),len(self.deck.cards),stacks)
         print (line)
         
         self.getAndDisplayNextCard()
