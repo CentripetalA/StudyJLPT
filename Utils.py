@@ -197,3 +197,50 @@ def prepareKanjiDict2():
     deck = C.Deck("kanji2",cards=cards,binSize=20,randomize=True)
     deck.save()
     return deck
+
+def compressKanji2Deck():
+    kanji2Deck = getDeck("kanji2")
+    masterCards = {}
+    modifiedCards = []
+    cards = []
+    for i in kanji2Deck.bins:
+        b = kanji2Deck.bins[i]
+        for c in b:
+            cards.append(c)
+    for c in cards:
+        if c.kanji in masterCards:
+            #update master card content
+            masterCard = masterCards[c.kanji]
+            masterCard.eng += "; " + c.eng
+            masterCard.hiragana += "; " + c.hiragana
+            #remove card
+            kanji2Deck.removeCard(c)
+            modifiedCards.append(masterCard)
+        else:
+            masterCards[c.kanji] = c
+    #bump cards up bins until all bins have 20 again.
+    originalNumBins = len(kanji2Deck.bins)
+    for i in range(originalNumBins):
+        if i==(len(kanji2Deck.bins)-1):
+            break
+        binToPutIn = kanji2Deck.bins[i]
+        while len(binToPutIn)<kanji2Deck.binSize:
+            binToTakeFrom = kanji2Deck.bins[(len(kanji2Deck.bins)-1)]
+            binToPutIn.append(binToTakeFrom.pop())
+            if len(binToTakeFrom)==0:
+                kanji2Deck.bins.pop((len(kanji2Deck.bins)-1))
+    return kanji2Deck,modifiedCards
+
+def simplifyEnglish():
+    kanji2Deck = getDeck("kanji2")
+    modifiedCards = []
+    for c in kanji2Deck:
+        if "; " in c.eng:
+            modifiedCards.append((c,c.eng))
+            translations = set()
+            parts = c.eng.split("; ")
+            for part in parts:
+                subParts = part.split(",")
+                translations.update(subParts)
+            c.eng = ",".join(translations)
+    return kanji2Deck,modifiedCards

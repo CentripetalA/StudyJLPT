@@ -495,7 +495,7 @@ class Deck:
         filename = S.saveFileNames[self.name]
         content = self.exportDeck()
         with open(filename, 'w', encoding='utf-8') as outfile:
-            json.dump(content, outfile, ensure_ascii=False, indent=2)
+            json.dump(content, outfile, ensure_ascii=False, sort_keys=True, indent=2)
         
     def load(self):
         filename = S.saveFileNames[self.name]

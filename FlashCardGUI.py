@@ -15,7 +15,7 @@ from gtts import gTTS
 import threading
 import PIL.Image,PIL.ImageTk
 import time
-import playsound,os,random
+#import playsound,os,random
 
 class FlashCardApp:
     def __init__(self,master):
@@ -376,16 +376,17 @@ class FlashCardApp:
         t.start()
         
     def speakThread(self):
-        audio_file = "temp.mp3"
-        lang = "en"
-        text = self.currentCard.eng
-        if self.isRevealed:
-            lang = "ja"
-            text = self.currentCard.hiragana
-        tts = gTTS(text=text, lang=lang)
-        tts.save(audio_file)
-#        return_code = subprocess.call(["afplay", audio_file])
-        playsound.playsound(audio_file)
+        return
+#        audio_file = "temp.mp3"
+#        lang = "en"
+#        text = self.currentCard.eng
+#        if self.isRevealed:
+#            lang = "ja"
+#            text = self.currentCard.hiragana
+#        tts = gTTS(text=text, lang=lang)
+#        tts.save(audio_file)
+##        return_code = subprocess.call(["afplay", audio_file])
+#        playsound.playsound(audio_file)
 
     
 if __name__=="__main__":
