@@ -88,25 +88,26 @@ class FlashCardApp:
             self.binCountLabelTexts2.append(binCountLabelText2)
             
         #buttons
+        self.master.bind("<Key>",self.key)
         self.buttonFrame = tkinter.Frame(master)
         self.buttonFrame.grid(row=2,column=0)
         
-        self.showHideButton = tkinter.Button(self.buttonFrame,text="Show/Hide",command=self.showHide)
+        self.showHideButton = tkinter.Button(self.buttonFrame,text="Show/Hide (Space)",command=self.showHide)
         self.showHideButton.grid(row=0,column=0, sticky=tkinter.EW)
         
-        self.correctButton = tkinter.Button(self.buttonFrame,text="Correct",command=self.correct)
+        self.correctButton = tkinter.Button(self.buttonFrame,text="Correct (->,6)",command=self.correct)
         self.correctButton.grid(row=0,column=1, sticky=tkinter.EW)
         
-        self.incorrectButton = tkinter.Button(self.buttonFrame,text="Incorrect",command=self.incorrect)
+        self.incorrectButton = tkinter.Button(self.buttonFrame,text="Incorrect (<-,4)",command=self.incorrect)
         self.incorrectButton.grid(row=0,column=2, sticky=tkinter.EW)
 
-        self.correctButton = tkinter.Button(self.buttonFrame,text="Shaky",command=self.shaky)
+        self.correctButton = tkinter.Button(self.buttonFrame,text="Shaky (1,2)",command=self.shaky)
         self.correctButton.grid(row=1,column=0, sticky=tkinter.EW)
 
-        self.correctButton = tkinter.Button(self.buttonFrame,text="Easy",command=self.easy)
+        self.correctButton = tkinter.Button(self.buttonFrame,text="Easy (3,8)",command=self.easy)
         self.correctButton.grid(row=1,column=1, sticky=tkinter.EW)
 
-        self.correctButton = tkinter.Button(self.buttonFrame,text="Almost",command=self.almost)
+        self.correctButton = tkinter.Button(self.buttonFrame,text="Almost (0)",command=self.almost)
         self.correctButton.grid(row=1,column=2, sticky=tkinter.EW)
         
         self.studyKanjiButton = tkinter.Button(self.buttonFrame,text="Study Kanji",command=self.studyKanji)
@@ -133,14 +134,31 @@ class FlashCardApp:
         self.speakButton = tkinter.Button(self.buttonFrame,text="Speak",command=self.speak)
         self.speakButton.grid(row=4,column=0, sticky=tkinter.EW)
         
-        self.doneButton = tkinter.Button(self.buttonFrame,text="Done",command=self.done)
+        self.doneButton = tkinter.Button(self.buttonFrame,text="Done (Enter)",command=self.done)
         self.doneButton.grid(row=4,column=1, sticky=tkinter.EW)
 
         self.quitButton = tkinter.Button(self.buttonFrame,text="Quit",command=self.quitApp)
         self.quitButton.grid(row=4,column=2, sticky=tkinter.EW)
         
-    def nothing(self):
-        pass
+    def key(self,event):
+        print ("pressed", repr(event.char))
+        print (event,event.char)
+        print (event.keysym)
+
+        if event.keysym in ["Right","6"]:
+            self.correct()
+        elif event.keysym in ["Left","4"]:
+            self.incorrect()
+        elif event.keysym=="space" or event.keycode==12 or event.keycode==101:
+            self.showHide()
+        elif event.keysym=="Return":
+            self.done()
+        elif event.keysym in ["1","2"]:
+            self.shaky()
+        elif event.keysym in ["3","8"]:
+            self.easy()
+        elif event.keysym=="0":
+            self.almost()
     
     def quitApp(self):
         self.done()
