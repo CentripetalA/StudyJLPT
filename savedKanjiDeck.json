@@ -381,11 +381,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "伝",
-        "lastSeen": 1541160700.2240365,
+        "lastSeen": 1541198348.2619264,
         "misses": 3,
         "studyGroup": 2,
-        "timesCorrect": 3,
-        "totalCorrect": 16
+        "timesCorrect": 6,
+        "totalCorrect": 17
       },
       {
         "almost": 0,
@@ -429,11 +429,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "遠",
-        "lastSeen": 1540343220.5115895,
+        "lastSeen": 1541207820.8503165,
         "misses": 2,
         "studyGroup": 2,
-        "timesCorrect": 8,
-        "totalCorrect": 17
+        "timesCorrect": 9,
+        "totalCorrect": 18
       },
       {
         "almost": 3,
@@ -1804,7 +1804,7 @@
         "totalCorrect": 26
       },
       {
-        "almost": 0,
+        "almost": 1,
         "ambiguous": 0,
         "cardType": "kanji",
         "desiredImageIndex": 0,
@@ -1813,10 +1813,10 @@
         "image": null,
         "imageIndex": null,
         "kanji": "容",
-        "lastSeen": 1540344365.1884806,
+        "lastSeen": 1541210015.4497259,
         "misses": 3,
         "studyGroup": 0,
-        "timesCorrect": 8,
+        "timesCorrect": 4,
         "totalCorrect": 16
       },
       {
@@ -2119,11 +2119,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "御",
-        "lastSeen": 1540344282.915452,
+        "lastSeen": 1541210002.0414872,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 20
+        "timesCorrect": 9,
+        "totalCorrect": 21
       },
       {
         "almost": 0,
@@ -2345,11 +2345,11 @@
         "image": "ffd8ffe000104a46494600010100000100010000ffdb008400090607080706090807080a0a090b0d160f0d0c0c0d1b14151016201d2222201d1f1f2428342c242631271f1f2d3d2d3135373a3a3a232b3f443f384334393a37010a0a0a0d0c0d1a0f0f1a37251f253737373737373737373737373737373737373737373737373737373737373737373737373737373737373737373737373737ffc00011080035009003012200021101031101ffc4001b00000203010101000000000000000000000004030506020701ffc40037100002010303020306040504030000000001020300041105122131410613221451617191a115233281075282c1f0243342a2436263ffc40014010100000000000000000000000000000000ffc40014110100000000000000000000000000000000ffda000c03010002110311003f00f71a28a280a28aaa960d51659e41771088bab22b701541248271df8fa507cd226b4b8d3a3661b8c3310ccf191f9b9e59723904b6430e086c835ceaa248677991cc82781e211ede530acdb81f9e01cfbc631dd38e1beb66b7b39aed040b7598dc153f9401654e99e368e7bd25a2596b0d0584d36a91030c254bf07787518c0c7418079c67141a583d3a8dc2f6f2623f771fdaa93c4be38d1fc2f6b04daac9217badcd041026f7751dfb00391d48eb4462fa74b744d561ba56cdb4a627eadd58e40e084fbd677c45e0ab7f127f11edeef5194c9656d6aa5ed36f0c8b9dab91d8b31c8ee062833dad7f17f43bf9219a1d2f52578492aec62c1f98ddf4e78ebd718d4ff0ff00f889e1ed60c1a35a8bab4badbf94b7843198f538704827a9c1c7c2af22f0cf865ef0eae9a1d925dc1901bcb55c1031c81c671ef191593d67c19a15c789f49f11d91f628bda93ce8eddd0234aac1c312a481901b38c678efd42c7c45e2ed53c3b0cb26aa6de0df385b6022de590efc9215ba0c27271f5a9b44f17dd78921b9974250ea8c813cf84a0fd5ea1f121771e33db9e0d62bc7be1dd53c5bfc40bf5d31e174b6b5b75cb498e1959971db1bb77d73cd52697e1ef12784fc47a0dedeaadbabdfa5b93ed0ae1724e5182b1ea8188fdba1a0f65b39f5e17b730c96f08fca49320823798c67bf4deac29dd41f581a8ecb18a336ad0feb6c70feaef9f82f63d7bf4a727fcad4ad9fa2caad09f8b7ea5fb2bfd69ca0cb411f882de7d39161884402c739187da80f6e476e3a1f7d376126bd25b1f6d8d229fce40bb5548d840dc7af6f57dbad5f5141ca125412a549ec7a8aea8a280a28a2811bc2d35e43661dd11d1a490a3156214a8da08e464b6723ddf1a56fb4e9dbfd2dabffa5b84659bcecca10f62b96079f9e381c0e72c6a4e6dee6d6e514c920262f297f53ab609c7c46d079ec0d3fda832ff0083d8dedc2d85c46c8e91b249b5c9fd0508233ef1267a7f7ccda5f87ac24d293d2f89e2856553820ec20e3047c083f3f953d0235bea523dc42be65cc8c21955c918da3d24638cac60f71c1e7a0ae6daf2ecc525fdf22db5a47017312fad98ed562d9f70c30c60139e9c0c84963022dfc89193e4d9c621453d9880cddb9f4ece7e2695b3d2cc3aa5dfb4e245b9876860c72ca0f7f71f59e9f6e82cb4b81e0b28c4d8f3df324b8e7d6c72c3e409c0f80148ebd74904d6ed1b3fb5a6591573b7693ceec7638e3bf1eecd0391699650c70471c0a12dd4ac6a72428208239f9d2da8e9d0b456b696c91409e7860163181b54f6fd80f952bf8f5992b34d1cc972836888370c0f539c818e3fe583f0ce2919b5a99aed6fb72058d4a24241d9ce33ebc0e4e319edee340ab785ce95e2e3abe9fa9aa3df621b8b79a30dbc6c455f567d38d9c1c1e5c8ef4978efc297de26d534d81f5616ab0e2658e2b667f50600b97cfeac7e9380073f3ad9a25a6b3691dca215720ed72b89236e847cc1fb81513fe22b3b491da46f3b44137b48047952483fcd83b8f6e303ad04faa068b4ef3d9b2d6c56666f82905beabb87ef5602b82a1e22928521970c3b1f7d2ba3bb369b02bb1678c189d8f7642549fa8340ed145140514514051451408dc911ea9692bf086392207ff662840fdc29ff000d4771726defe662708b1c1bb3ee2f2034e5d887d9a4f6950d105cb82bbb207c2b3d36a3a7c370db269361368017dedd5d98727e140f4da85bc9a8c724b32ada403745200712485583738c602e7a67af6c543a96b3a74d25adb0bb4d8eeb34a79ff6d5863eae5063dc4d233ea4da980b24f1c11c7e603322160c406570148cf1e923b1073d46033a47e11aadedebc505b4aa8b1c48be48dbb064e791fcfb87f40a0ba8f50b49209a649d4c50961237652bd6b29aac4b3dd0bbf3e3912791f66507217000c9071c1ec3b7c6ae46ada1c56f24aa6358a447924db037a867d59007c7f7e7dd545e2286df53d3af20d3d7ce649a1d96e90b02a319239007bcff004fbe82230b8ffc2ccbff00d55587edea007d2a395ade1c4d78e211903d05518f3c850324f19e3273eeacd268b7520f260d26e4bcbc22bc0c14923f98fa40fdeac74ef0b6a32c96f1b59082195f1e6c8540e858e14127b1e38a0d28d06f65d3ae62d36f9559ae5d958bb2e136b84195ea30c9c63a0eb4cc5a1eae97b6d3b5f2944816275f35cf3b0a93c8c9e707a8cfcf9ad15b5bc56c8cb0aed5662c4649e4ff009d3b54d418e3e1bd6cd8fb3fe22aade697de26739057183c0ff3dd56567653a43ab58198adc4c8b22bac84eddd104c8e3d3eb8dcf03be7a9abfa4663e56ab6efd1668de23f1618651f41250552e857ed6691497db5d662e4abb9e38e324f4e092b81d719c677412f87f566d43529d2fc08ee226480199bf2f3b7b638e879078f8f39d551409e936d359e9d0dbdc482492304161dc64e3ed8a728a280a28a280aa8b7b58ee2ef500caa3cbbd88afa47fc638985145039a8325a59dc5d88519e189a4191d7009eb469d6515a5a43122a968d00326d00b1c724fc49e68a2827f262dbb7cb4db8c636f14086253b963404770a28a282bb4e1868a20711c1e62228e802b945ff00af15d69ac1eee68c8ff699d873fcceddbf6fb9af94505a5145140525aa7a52de51faa3b98f6ff536c3f66345140ed1451405145141ffd9",
         "imageIndex": 10,
         "kanji": "作",
-        "lastSeen": 1540342874.033472,
+        "lastSeen": 1541207810.3654096,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 13
+        "timesCorrect": 9,
+        "totalCorrect": 14
       },
       {
         "almost": 0,
@@ -2941,11 +2941,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "規",
-        "lastSeen": 1541109313.8535376,
+        "lastSeen": 1541198433.4902844,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 13
+        "timesCorrect": 7,
+        "totalCorrect": 14
       },
       {
         "almost": 0,
@@ -3005,11 +3005,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "除",
-        "lastSeen": 1541160724.2519653,
+        "lastSeen": 1541198403.5149975,
         "misses": 4,
         "studyGroup": 0,
-        "timesCorrect": 4,
-        "totalCorrect": 26
+        "timesCorrect": 6,
+        "totalCorrect": 27
       },
       {
         "almost": 2,
@@ -3181,11 +3181,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "髪",
-        "lastSeen": 1540344505.2483144,
+        "lastSeen": 1541210028.9906526,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 13
+        "timesCorrect": 9,
+        "totalCorrect": 14
       },
       {
         "almost": 3,
@@ -4599,11 +4599,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "確",
-        "lastSeen": 1540343322.0854304,
+        "lastSeen": 1541207838.1771655,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 19
+        "timesCorrect": 9,
+        "totalCorrect": 20
       },
       {
         "almost": 0,
@@ -5661,11 +5661,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "残",
-        "lastSeen": 1540343898.2198625,
+        "lastSeen": 1541209980.8729022,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 9
+        "timesCorrect": 9,
+        "totalCorrect": 10
       },
       {
         "almost": 0,
@@ -6739,11 +6739,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "館",
-        "lastSeen": 1541160717.6791217,
+        "lastSeen": 1541198358.7612822,
         "misses": 3,
         "studyGroup": 0,
-        "timesCorrect": 3,
-        "totalCorrect": 13
+        "timesCorrect": 6,
+        "totalCorrect": 14
       },
       {
         "almost": 0,
@@ -6789,11 +6789,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "質",
-        "lastSeen": 1541160222.010008,
+        "lastSeen": 1541198396.5803437,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 4,
-        "totalCorrect": 10
+        "timesCorrect": 6,
+        "totalCorrect": 11
       },
       {
         "almost": 0,
@@ -7045,11 +7045,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "冬",
-        "lastSeen": 1540342791.829187,
+        "lastSeen": 1541207798.725634,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 3
+        "timesCorrect": 9,
+        "totalCorrect": 4
       },
       {
         "almost": 1,
@@ -8228,7 +8228,7 @@
         "totalCorrect": 5
       },
       {
-        "almost": 1,
+        "almost": 2,
         "ambiguous": 0,
         "cardType": "kanji",
         "desiredImageIndex": 0,
@@ -8237,11 +8237,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "財",
-        "lastSeen": 1541160124.7080262,
+        "lastSeen": 1541207793.860948,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 4,
-        "totalCorrect": 7
+        "timesCorrect": 5,
+        "totalCorrect": 9
       },
       {
         "almost": 0,
@@ -8712,7 +8712,7 @@
         "totalCorrect": 6
       },
       {
-        "almost": 0,
+        "almost": 1,
         "ambiguous": 0,
         "cardType": "kanji",
         "desiredImageIndex": 0,
@@ -8721,10 +8721,10 @@
         "image": null,
         "imageIndex": null,
         "kanji": "定",
-        "lastSeen": 1540779545.0061347,
+        "lastSeen": 1541211678.4118497,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 7,
+        "timesCorrect": 3,
         "totalCorrect": 7
       },
       {
@@ -8817,11 +8817,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "付",
-        "lastSeen": 1540739795.5720184,
+        "lastSeen": 1541198438.6293948,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 5
+        "timesCorrect": 8,
+        "totalCorrect": 6
       },
       {
         "almost": 0,
