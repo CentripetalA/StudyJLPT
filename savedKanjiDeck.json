@@ -75,11 +75,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "備",
-        "lastSeen": 1541109249.6002173,
+        "lastSeen": 1541547940.9926848,
         "misses": 2,
         "studyGroup": 2,
-        "timesCorrect": 7,
-        "totalCorrect": 18
+        "timesCorrect": 8,
+        "totalCorrect": 19
       },
       {
         "almost": 1,
@@ -1064,7 +1064,7 @@
         "totalCorrect": 17
       },
       {
-        "almost": 1,
+        "almost": 2,
         "ambiguous": 0,
         "cardType": "kanji",
         "desiredImageIndex": 0,
@@ -1073,11 +1073,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "暗",
-        "lastSeen": 1541109263.9408212,
+        "lastSeen": 1541643472.611984,
         "misses": 2,
         "studyGroup": 0,
         "timesCorrect": 7,
-        "totalCorrect": 18
+        "totalCorrect": 20
       },
       {
         "almost": 0,
@@ -1121,11 +1121,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "旅",
-        "lastSeen": 1541109230.5783203,
+        "lastSeen": 1541547893.6717606,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 18
+        "timesCorrect": 8,
+        "totalCorrect": 19
       },
       {
         "almost": 2,
@@ -1491,11 +1491,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "勉",
-        "lastSeen": 1541109329.684418,
+        "lastSeen": 1541548069.6157148,
         "misses": 5,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 27
+        "timesCorrect": 8,
+        "totalCorrect": 28
       },
       {
         "almost": 0,
@@ -1861,11 +1861,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "冷",
-        "lastSeen": 1541109256.0536346,
+        "lastSeen": 1541547964.4584742,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 11
+        "timesCorrect": 8,
+        "totalCorrect": 12
       },
       {
         "almost": 0,
@@ -1893,11 +1893,11 @@
         "image": "ffd8ffe000104a46494600010100000100010000ffdb008400090607080706090807080a0a090b0d160f0d0c0c0d1b14151016201d2222201d1f1f2428342c242631271f1f2d3d2d3135373a3a3a232b3f443f384334393a37010a0a0a0d0c0d1a0f0f1a37251f253737373737373737373737373737373737373737373737373737373737373737373737373737373737373737373737373737ffc00011080063009403012200021101031101ffc4001b00000203010101000000000000000000000405000306020107ffc4003e10000201030301050603060406030000000102030004110512213106132241511461718191a12332b11542c1d1e1f0336272a20716548292f1345253ffc400190100030101010000000000000000000000010203040005ffc4002411000202010304030101000000000000000001021103122131041322513241618171ffda000c03010002110311003f00fa0df5ccb776e23695536bab82ab82707cf9e6a9ecddca06b9f19c9724f3ef34926bf2236e7ca82ecf6a045c4df9b0c09e01f5af2651d6d6a47b2f16351691f457ba5dbfe2115f35edaf6af54b3d66e6cec2695a48e1468a38d49ddbbd47ef1ce7e55a237f91d5be86b1fac41def6a92f371188141f7f26a90c7083d49107862d5234d6e5afb43b49f5359fda668877a1276408cdd3009e08c8a671767bb2fb372e910c9211f9a75129fab66b317faa05b07024195c11f2229b41aaae078c62a34d5a455e18bfb28d57b1fa118f31da5bc0cd900c568a369f2fca475af5ffe1ce8091964bbbf90e3a09d917e82bad47531eca58374743fee1478d502a919c5779d694c1d857c980d53b0f6ff00b4561b132962a58f7b3060067d0a1cfd682934292c731dc492b28ffa78e25c7cc8fe15f411a8aaddac85b19461f7159bed5ea97b65dccba9691770595c49ddc570e53c471d7683b80f88a38fbef64ee8e9c71c39740b0f63eca558a49eda42b272ad35c8191f04c569f4dec6766962579a2d3c30e40312c87fdc09a02d24454058803d4d037ddb3b1d3a578e486ea45493bb91e240c10800e4f39c1cf5f71a30eece5b3b04f1e38af2746c134bd02d5b292498e85634603f954964d0a24c4360eefea55573f3eb5925eda6812db8993538403fbad90df4eb5ed9768f4fd4da44b1b8ef8c606ec230c6738ea3dd5ce13fb418e3c4f890e6e26d225962925d1619255983f7d3b991ba827af5e0631d07ca97bea067b68d4dbdb21e58948f049273fc685b9baf031e68149dbb98ff00d23ce95dbd99458a117b21baeb3a85ba6c82e9a35ff2814ae5d42e659dcc93c8cc1705b71e72493f7354492b7a8a004c7daa61e817f8d151a0b515f416cfe235283695b3d47d2bca7d2c366a6e98f70f8ffea681d12429827d187de8898e51bc67a7ba96e9ce7bc2bb8e016ab35b92d5b0f9aecf414baee7cddab9ebb31f7352438f334bee4e25524e78a2d0899deab296b29f9e369aee3bc2154f96050578f9b39875f01fd2b950a614383f9479fbaa7a47520bd46f73652e08e99fbd557d73a9101ace7b440d22a209949dc48e981c93d297de91ecb3751e03e74c74dd4e4b2dc619223232e4646e31900e1b1d7e5d7a7953e385cb6564b3cfc39a3b5bcbd5da9a8ac51cc85d088c3053c0e7c5cd3eed36b5a4dce8af15c5b34cf12f7e05c33baab6dc03963c9c1e838cd20b88135cd465b48af632b0229f6a0c1c39ced24283c720e067a60f9d28d4b4b9bf664b6f680a470dc32169d8032aaee3bb20678f08e7a9cf4c0cd9627193bd8c593a9849257c1d76a66497b333118600a1ff0070a2fb2f6d6c34f8a08f58beb18216632451bed2ccd820f1c1ce71d07e5e9436a1032f62208ee501f64556628305c139c7bfaeec7a50fa1eb234d58ee52da079bbb558a0910e5b2739e0f5ca83f3f4a7c38a5c458327530c9e4d7e14769745b6b7d5c995ee655eed41ef244495db00ee3853b473d08e7af15c761c2c1aa6a50a93b5554024f38cb57577717916aad1df69f3497b738cc3296123b91f9867d48e9d00e063a8abb3dde69fabea2da8a7b3931ab90fe993f5f3a397149276ed0704e3ad7d1afb861dd373e54346c3b94ff48fd283b4d485d4085cc7ba689a4013a280c4633e67a67a79d5b65df5c42f209eda18a18989efb23257cb3d067079f2ac9da7aa8def3c6acb09cf91fa5029ff00ccb8ebc84e3eb42c9ad5ab5cc660ef491091244dc979491b42f3f11efaedf50b75bbee6e2c9ac2f045ba5df2b30946320f27838cf0302a9d964df5316127af4352809f56b1b69e482f60613a1c32caef195e33d011f7e79a94cb0ba15f5514cd14ba9db007f181a5b6babd9c32b9790800b1ced3fca82dbeb4b6e4624906060a9aceb25875b3487b436126364921ddd3119a12eb568d994a23b797a567a3cc6408ceddbcff007f2a25a463232960403c534b221754860dab2491b22c67c408ebf2f4a89ab32c49188065542e493cfda84481060edf53e63ad7a93598043cb120dd824cc01fd6bb52675cfd974f7cd246c8e88370c1009c8cd037174ce9ddae564f1167539c8c70b8cf4e3efe7445b0d3e7cc70ca8e5073b5cf14bb5288c1725602d8ee8b72e39ebe67afc3e42b474d3a9d10cea4e3b9a6d393d96d91ede16411ed9669a347e14901339247393d31d7a71555c4f2ea3dedd5c30550a7640bd17fd5ebfcc55b3ea318b3b5d3ece5cc3dd08e42083de042a067dde106a9d3a3370feca55503280ce00ce3cffbf7d3cddb6cf39fb0cd667b9baecf6618d4c92c0cddd900610a9dc463afafd6b2baacb66d7770da4a95b4dcbdca9e593c0030e4f4ceea79aeea91c1790b4722c68993bc21f42338e6b24208c2bfb3317841011f7104fcbe5f2a7c2e8a638f892dafa6b6d4a2bbb7d914d148244d881406072381c7cab49ff31dceb5717716ab0dbca2e57215556358c8391b4f97c3e359675c04e1890d8c9cf1fdf3f4a6ba4c98495172b23636c831e11e7f5cfaf95526d28db2914dbd82ada7b2835185dec6d7ba8ee84cdddb0394c1ca918c119c1c1e98c74a16ee78a0d46f8c3ddbc123fe1a160360ce718e3cb231f0f4a61a6c11d95d2cf2299b60c004719ce73fd296dd697df3b3b5cf8998963ddf5cfcea1ddc6df259427e8eaeb5212ac0161b7c46dea918db9fcbc74f3e47ad142fe05d42db508d235955877a8f2abab60e40e4f3f3a125b1b182da1dd24c6551877651b7a93c01cf98fa552a6d00f04e14fb91813f6a2a7b78ab04a2af77468f53d5adb539d676b5d3272136ee2884f52793919eb9e9e75e569ffe1ef6ff0044ecbf67ff0067cf63a84b319de591e209b0938e99618e00f2eb9a942e1ec152f467654805a432a5c8799f787836106300f073d0e7dd4a2e08ef5a9dae8929196909f7f4fe75c3e820c99dedefe735e5acb04f936e890897018938208ab64d46f6c2376b2bb9e0c9c958e4201e3cf14e1bb3e4bee49c28c7ef2e681d774c92dac5a42c8c0601c0c1cf34d0cb17354ce71745635ed6fbbb6717f70639700b31dc013e5cfe94441abdd48f20bebc649236c8fc3db95c039f08f7d27689d6db4c70a4ef2bb71e7ce2bbfc54d42e08ddba3ddce79000fe95a6ed12a1e36b30258cf2437315c5c8eefba8e642e092c0370463f2e4d037bacecda6f34bd29f1c06f67618fa30a4d66c54480703c19f867fa513aeee58150ed20b64f033f5eb4d1da6902aa2c651ebf6c3ba43a4583854611b2b48bb4672704b71cd7b0eaef73790dbe9b636f6b24aa5774d3b6d3c64e49c63a521b387db6de08800a5049e351c9f4cd7496ad713476eae158861923d3e1546a9d12f176da0a6d5af5f322476d1e38cac0a7f50681b8babb9492f3b107ae38fd2a9b96922992204008482578ce0d7be2df36fce49ce4fc68ec9057230d0344d43b4bac269da6f766e0a349f8adb5405ea49c1f3c0f9d1173a7dce83ab4da5df88c5d5be049ddbee5cb2ab0e71e8c291433cd6f389ad66960957f2c91485587cc5156d23493ef95d9dd8925998924f9924d3e7f850b8d7958ea39cae083d79af25bbda0162a3270005e687561b463d2b9924b5002dc5c342c1814c4458707dd58610d4e8d12952b2bbfb91228560467dd40ac7e02fc05ce3a8eb454f1db5c101353b618fff004574fd5687bab55815f17304de004342e1c1c9c751d3e78adf8d6881964f5c8b20700374fcd52858cf071d3352b335b974cfb78b78cc217ba4126fceed84f18e9ce2a96b1791b82df403f4a64b105e048c7dcbfd9ae64624e0baa8ff0033e49af0acda85a74bf37c9f9e7f5a51dadb154d06760a382bceee7f356ad215232c327d49c0fe74afb5d0c3ff002edded505c2af3b7fcc3cea98ef5a673e0c037751f67341ba6237a4ad81bb0481274c79d1d7b6623ed54f69dde05c07cb13d06c6cfde8491777623479c8c882ea553d7a17cff000fbd31d4d52dbb7d2099846b3291bc9000df137248f7f1d6bd2f7fd33998b4b3ef92fd036d2a8a73ff007107ae3d6b4fdb7d1e698db88821664700283d40247d7a5662dae5e33a8e64fc592239dde22de2e7af9d6e7b473c914da3154ef19e6504c8a49c9da081f1048ae9b92c91a3956967cd6dae4d9d9c73c782db8820fa1a3e17782fa09046d2382de14ea78f2fd68068da4d305bc4bb9cdc1db86c0c9006315a416bec3da986d9477861999381f9bc38ad597657fe90824f67e8cd5e31172acca46f2c7ea6a37f8f71e7cf91cd35beb1f6ded0496f02ac263695b1d4109cff004a0e786557efe44db1dc731b7186c707005736b80a42c1cf3465ac5210ae11b1ce0d02bc3303e4c6b6bd998cb69b183164966218f0369347a9c9a31d8b86372a1346b2630636cfc2aa9d88963ddb875e0fc2b6925a8dbb7285bd11295dd68d3c9731b2c6bb53391b80ea38ac30cf16f7343c6cc95e95daa50f39e6aa71f8483a7c3ceb437ba3b37844658fa28e942fec6989f1aec51d0935a239a1423c7215479dbc54a6e9a5aa8c6e27dfd2a5777220d323ed9ec12483320273d373d7a34b6046c60bf0fec514efb13c6eb1e7ccbe4fd287dd1311b84937f99ce17e95e2ee6db3a16d1427f1261b8792924fd052aed6cc90e8374ab673bf7aa11596304e49f21d4f4a7cb2955021887c863f9d57796915fc063be8a2913aed75ce3dfd7ad531b51926c57c1f0f94dc3692ba50b9468924690467c0413d73bb1f4aaefe19ee5a31349290a38924e41cfbebea1a87656d258c98a49fae36165917e61f381f0c52597b157a80bc31dbe09eb6f3b40c07fa4ee07ec2bd28f538a5f746670923191456b34b773b4bb656560b02a950d9f2ddce2b59aec9657b6da4e658ee83dc46245f220e0107d073f6a4f7ba55c42595e393c3d7bfb7e3ff0038f3c7c6837b79668551217744f3b6759318f70e7eb4ee2a6d34cebad985ea7a45b7ed286d611ecd1b125446a090c013d323d3e541ea66edf5790cf334f77def8a5936a176c0e4f4028572fbd44776c1e23e159b2197ddcf1f7aba496e9592edd51a6590313c6d38e99f2f2a294d24b93bc6ecae592e1f5992e6dedc42e5583c68db84636a8ea3ae719f9d0b7372d2436b16f2c9086088483b0120d58f733cf3cf2778e5a6399161c807e357d8691777ed8b684ed3fbcbd07c58f1f4cd3c9ae65b0abf0426dd8ef76f0a863918e6be97d9dd39974db68d816da801e7007157e93d9a4b1821f6cb5496e07eff002d827a019e3e7c53a59b6469b609033676af767271d6b1f55d4f7128c56c3e2c7a5db6770694e225748f084ed1263c39aaa6d33132adc3e652d858c0c020f20fbfcfff0074e05d4fdd892749e10a41d8bcf840e57ae3071e9f7ae608dd62f6a5d2ee27ef154c3b403c312fd73e7bb35286152fd2aa697c8437360c8a8210855fa04e84119cf4f7790fd46575e69732ed13f7639236c7ce0824633f223af956993be8adcadc69ba8381181de346b9cedc6786e33f0e39e2bb68960453796771ddc98488cc02f8cb163c83cf07ec7d78a4ba5514eb91de4c5bd3316da7c59e401eec9a95a5be92dde5578a38d108e01c73c9a951d0fd89aff07d6f1a0653b464f5279a64f1a470a94519f7f352a565650b2de24780bb2e5874aa5944830e323d07152a53af8b15f20b07f89220e17d0715edc1d8aa17001ebc54a95008bd914f799038f2f2a5d2e93a7dec724d736b1b4a9f95c0da47cc54a9578b6ae812309aecd25bea70da2b6f819b0566fc538f8b648af25d36cd9a2cc3f9b248dc7a807df5e54af6706f04d9967b30eec6d8dadea4d25d409218dc84047847fdbd3ed5acba3dc04487c0a41cede2a54af2baa6fb945f1707ad7132c00895f3c0ce7d33575bc8f83cfe55f0fbba54a9489ba1ab7391733377c0b9c2801479006abb5549950cb1c6c4f1f9074048152a53a93f67522f96185402b0420e71c46bd31f0aa249191b29b548638c28e2a54aac652f6252d8573b199f749e223819f2152a54a039ffd9",
         "imageIndex": 1,
         "kanji": "判",
-        "lastSeen": 1541109334.4686322,
+        "lastSeen": 1541548077.4952452,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 13
+        "timesCorrect": 8,
+        "totalCorrect": 14
       },
       {
         "almost": 0,
@@ -2304,7 +2304,7 @@
         "totalCorrect": 10
       },
       {
-        "almost": 0,
+        "almost": 1,
         "ambiguous": 0,
         "cardType": "kanji",
         "desiredImageIndex": 0,
@@ -2313,11 +2313,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "顔",
-        "lastSeen": 1541109272.0087378,
+        "lastSeen": 1541643481.017912,
         "misses": 3,
         "studyGroup": 0,
         "timesCorrect": 7,
-        "totalCorrect": 14
+        "totalCorrect": 16
       },
       {
         "almost": 0,
@@ -2409,11 +2409,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "押",
-        "lastSeen": 1541109182.4588032,
+        "lastSeen": 1541547841.2167037,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 11
+        "timesCorrect": 8,
+        "totalCorrect": 12
       },
       {
         "almost": 1,
@@ -2425,11 +2425,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "選",
-        "lastSeen": 1541109239.4752905,
+        "lastSeen": 1541547906.5079947,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 11
+        "timesCorrect": 8,
+        "totalCorrect": 12
       },
       {
         "almost": 0,
@@ -2891,11 +2891,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "老",
-        "lastSeen": 1541109276.2033577,
+        "lastSeen": 1541548027.3913393,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 14
+        "timesCorrect": 8,
+        "totalCorrect": 15
       }
     ],
     "9": [
@@ -2932,7 +2932,7 @@
         "totalCorrect": 10
       },
       {
-        "almost": 0,
+        "almost": 1,
         "ambiguous": 0,
         "cardType": "kanji",
         "desiredImageIndex": 0,
@@ -2941,11 +2941,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "規",
-        "lastSeen": 1541198433.4902844,
+        "lastSeen": 1541664415.4476247,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 14
+        "timesCorrect": 6,
+        "totalCorrect": 16
       },
       {
         "almost": 0,
@@ -3165,11 +3165,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "原",
-        "lastSeen": 1541109222.8461792,
+        "lastSeen": 1541547873.0519586,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 11
+        "timesCorrect": 8,
+        "totalCorrect": 12
       },
       {
         "almost": 1,
@@ -3343,11 +3343,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "疲",
-        "lastSeen": 1541109192.7805521,
+        "lastSeen": 1541547852.412672,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 11
+        "timesCorrect": 8,
+        "totalCorrect": 12
       },
       {
         "almost": 0,
@@ -3519,11 +3519,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "眠",
-        "lastSeen": 1541109285.2924342,
+        "lastSeen": 1541548046.0515356,
         "misses": 1,
         "studyGroup": 0,
         "timesCorrect": 7,
-        "totalCorrect": 11
+        "totalCorrect": 12
       },
       {
         "almost": 0,
@@ -3745,11 +3745,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "途",
-        "lastSeen": 1541498123.3977313,
+        "lastSeen": 1541643503.1733487,
         "misses": 3,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 20
+        "timesCorrect": 7,
+        "totalCorrect": 21
       },
       {
         "almost": 1,
@@ -3761,11 +3761,11 @@
         "image": "89504e470d0a1a0a0000000d49484452000000870000007c0803000000746c53e2000000c9504c5445ffffff000000fafafaf6f6f6edededcececed6d6d6f3f3f3dededef0f0f0e7e7e7e2e2e2a1a1a1696969eaeaeab3b3b3c4c4c47d7d7d9595954545459b9b9b6e6e6e8f8f8f6161613f3f3fbbbbbb767676171717898989aaaaaa5454542d2d2d353535202020ff00001010104c4c4cdcb4b3f35a5bd5deddff6f6efe2122ffe0df181f1f564545f31b1ab84040344e4ffa898adec8c8fd7c7bf7e3e3d99c9cd50000364545ffbab9ff4c4bff9c9ba78c8bbd9594e84a49b35f5ec75e5fff5b5a844949765757bd00009113528600000ede49444154789ced5be99aab3a76950412020492988511c3b16f924ed2196ea64e3a492779ff878ac46063031eeea99cf327ebfbaa4c19014b7bd61605c0ffe337c019f11309789813a02f703080b9fb73482839a45151557538fdcd2a497e280114b242b9658903a30bb740d7ef595aff3816ae2c878c7727be73ce3b353fcc4cba2cb01f3731ac11265df28378bcb00157ca1f402266e1ab21082af2bee7ec4af525a2210a5e0eaa58798e22f992300098331790d0de12fb40731660457cc205c81a15284d5012ef5c26e09e6d5e910cdd0868341784fad2a585f79c0763ade2352b5ca4380f8a44a030a2002758579174a39630deaac78b28a99e9b4615389ee7394e09e771414b9ff3c045a49416198a85c684b106780d70058f412459c84aae788eef2f7131cccaa7376da265e86910d351fd82871f9220a4d4d2260ec2248c3d8a9067342a04763071c290dc199093c396d0f6e076aad14c5fa2eb15189e736970e9fde73c14138473eeeaa4a14d94109e343e97e65816c0d58d10b2b8534b02b5f9ed558f026933a32e7ece5996256bf9252c20062f2d55c9c6d1b2f1f02552759990a88e82a66002f69de3121df2b45d5924be4c41b269db314691f91cb9d47d14b53b4925ec6f8f52ae4204d3980907a900b86b11619d01a132f38985ac999371cd581185795b112113cc5571d3acdb8dda46f9655079c932d69f6da25779cf4188f16300f00ae36af535a82679c345d1282173cc8b84aab5a01d9f0062cc20a002d3803a54613f0cb9e32007f8c8f57d1fdd68f3c6587e9243e6241c70adb52a4c9e3fd77c370405a9f5160497bf59a38dd5732ca2c6919724c46be9059c613e448aa752e451844adde032dfbf31c05d7de933abfee6287c2cb10dfdf2cf9518f5142d4331a214380c11336f408c94ef426dc6802a4a8aa32cac9bc4ab20c451c963bc1b773409a724bacf238cfc39dbc7e53ffde33f809107ae666e3a511a4b66e2640db4cec384b1db7449e009aa18c00abb38c448688e8862afb2c23e0fb7a363e4f08a4afdddef7ef5ba91019b7d8b958dc252529d9d4856b781aab3ef2edb0ef49230ebd5baabc1afdfbefd9a4cc2f1678130c1b9a35b84997624f370c1bfbf683bb40f0372c641f8f7bffff63ff95c08f149201e20c80d280d49183a3e451e705e249dd7d0c5f4c9da529a30f88bf9c9a27c3684ba34f8effffae3a27d0fced72841932274b036b2f95e061370337d8a3ee6fa3fffe3dffff86f5ae3fce8e6e578222b9b90c88c00338727015645f974a310bf361fb224983407e05ffff0877ff9939df6512ec3e368cf780a898d4f9814808f862253e90724ea2a58b5b282afc4e676cb519da3bffcf6ed777f01e8707c111c0d0101849e965d426b3405593125577256f8a954dce13a813cfdf33ffbf6ed973c7d62bac35b0e2a7afe1840711db597e2f8120fde8ec95ffdf5efffe66f37c5d21ae93b0e9ac1fdb2da6fd9e135a87ae3c63724b3cad0b15c70558a83eaca81c70e9e7f14828a918727baf2407bc84460a061a2f1de59b9fbed88e65856331c6c8256188694b0720c1741df12442e72676e6e9a384041c6ebd4771c9f8734d4a3926860ebd0279316cf97af4e28213cf7750ddb3aca5466794493bd255ba3f53b89455b436ceb3d53e6e7068d6c8b2281435b9edaa8dd71457ce906029ceec0ff1cc1ebe15c4a7d498c75b66d69cb17ab1792ce57884d54f092a69182b4c8d6027e388f0b841001f010e3c6782aadeeeb64d50b0f9b50d1efe9cc57695beaaa3a0b245280fbb601ba324b17cb8337cb2817ee16cdb519e447286a29b14ba63863536150a766762643776bed3863d0c45df060dcc80985aeab1a96807671d877765c288190b4ee9911a02939ae83e19edbb8b08da2a8015c79b5192a8644296579e4c3a4d0762d907cb24f936fab95409ca46b07d80a47167563d758a8b1013787f0941080a40d2e371e6a77d5516acfc7d97888613794d70c1491be20241bd6d10595d3540aa3b37e4eeb348bfa06e18e0fa6d2363961283b43b130868c4bd88fd66915c1161e14ee354688251ec4e1e44d4459db987009412165722743547a8b3c403dbb6e022103f1d0015249100731b9d8c5af335879e932b212ec03404f536a23f57e08e119e0ad1c86687c4a676eba84f372478b571e4648c1791e50d665dd7173c69c3312e9caceca74b6462746361051a866d27c3fe51bb541d8406875e6c05399bec50349e37c7a5ec63a1dd702e4a33fc4a6dc1a2689ea6eec14107345d2f79334ea6873cb19b502d0e4b92e1d79e48cc1c5bff679f873e6a65503d239b9f92559a53ed79973bbb281899a6a1024d16412fc685d6cac110375b954fd684538aaf368766e7ad94b2e11c3b81de7ebc912a7f3d82c9b663422067476303cd466752432329fc2dd7119667800c75dd69a8ec04b8c29f4de70d298d0377b90ee2e7374a7a73ce1cd657a3c41378f56acc98bbca846d32cba27cd8768ba082dc10ae139ea36c749ee3c532467381f398435b8c3330fba96240178ccfbeca0bc9831d5b040dd2e7527bfda0fbe23bc6a7e7c7059e70a31699fc4ce32ef903726d53a440a20a3e71d9029bf8275ea09edbc48f5a4900c16093b098caee6eca4d3b766213b112aa1418d91cd2f63aa70cc725aecdf37ee2ccfc0de4ce651320e32fe16c0a7ad139d2f47b885da4523403ef518309da69e581a50c4c49d84eed6b04f7879530f6245d12c05a54d2a805a1e04dfcaf9f469bd692264763d0c653b233f59ed3a74b12ca18486c665d1c9a6e26c18b5e9a7d77e272b4d2aabbba977e68e3dbdfbe6a4d73ea991a7a90cfaa66f34c3e4017b2b6f9da04bd8a96628db365afabef955d2c37884747b6134f6392cee59a0a0dbf5d93bb869bf2d92fc563ee6303cea86acfaca371eed3298366d5f5d3a799242cd104a964f56442bc47db43139afe81a765f4d468647b3fee2c6a37f8cd8be4e6e50edbb6d89a6da06a626675595723142654ddf3ef0706ff6911e87288bcbd39ef51a6a2339ef426d4fd6a45d8b5a8b1891f2ee86cd6d3744554f5bf4cf9a1b0f3019a4b9931ebe66b2706d291ee159361a5d51ae82adea9ef599d5e56d1e669532dc0977698cd8caa069aa744257c946b3a170c2c706b02e2fed629b340802ba1230aaded8a858c0ee1732ab95ac2b84eb38ab8d5464cad54d58d2e3c684eddc98d22dcfa36c752e79153d56e8ef396f5c600d82d34735b897c077dd838b107cbdc53383df1758474be50597470f09f2dd7133b27737d63c781f02e5f300586d56a371fa6c3bcc6fdfdcf394f75b9231bcede06e45eab076fbd0e4d996122adfe341e1fd8d8b1bad60605ac5c603ec8ffd5059daeea95bf551e8acb0be232adfdb3caceed5e0ad97f2a1d685f502188dce5036fa68e21c9e660cfd09deddb27bcb50d9d5481d6e1f22f7fcecb844df02650f5f24cdeeb8079cae5e98a596d29edc9d4f78848fdee35ede3010727b44d2e7d7faf41eeaa9633e20481fbf295fd463c05616b7188c6c4f40ee950b874de65d9c1fed3280bbe356f0fa07bb437067c7999c3ea1014e8f3c9c973c9ac758776b9921162df6f541eedee5f118a136d09b9874dbd8e4e535dc6f02f9a73cd06eb7e40a0e1f57bfab1633ee8a39cf908de1bdc30345d14dc5ddb3ccb9ac65278cc7c5ca5b78329f6e1e03c25b3cbc2abab94977bc0e0cdabb0a998e9652ef043117be2efc7778a072f55ac2716f1e9fef8c0f8dfe4b86bd54d07db803b7b58fa3f53e6f87fafe8cb27e822e7b7182a61fbeabf4360f0f060f06aacf56867cb7e1a4df4a0fbf8587ffb8e1914ccb91d34d016179556ef13a2abfe491ed9bfa437c8b2639b0553dd8dd3abc7b11f6531e7c7f4721597deda8667abe5eb16351b1f0f03e0bea371e7c25c74d0e9e80fa654cccfa722a84f06a5d8621ba6af4602aaf79a8d585f42061d38a5b4bf5eb5e523075c1bb9b290526fb5d35ca5e6e161df040f076c7231e266c9dfb7e48336497fcf60bbd1a69a3d9adc5f3f1aef5621fab2b0f79ace05a1e68b58d1157cecad33e7f8f60e19135d7e8f00e8f511e2b4342e3eec2c203edd6e74fb1d4ffec7ccd12eff04076e3ece6b3b41caf597804c3fe554f30cc62c874bfcce11d1ec63bda533d470902e70ddf8507fd6c93d7a29d79e4385b42f15b3c80e32190248ee7f0be5caca1990fe4c7ee02da39c9f7c1b5ca7c8f8745d8daa6c1cd1692c96fd1e5f3d75d2ef3c3cd826c6968bccf637c5b7cf517e946e9e24f562e33967593cdd373d3811e6ed9bc841ca7527d56228f20f343adfbcf9b35ef2de976e15d22ac86cfadc308766aeb34b97d51647ae1f47983fd0532f91bdf85d229f17d3ebde5424e5aa962a757f12320cab65daad320634cff1c1a5f06cf9ff1ddef86fd76f85994a7d58cf4c592c141219941bf56f6e3f6d30a4f56a61ebf1b9c7ee5ff873cd280f0b04a8eab8791a717af2fbf0f476e68c0e1a079eea69ba1b760353232a1d4737dc7ee2d212f06ae17201fbd557437abc9d5752ded7607ec76873a15ac364c66251265dffef75a8d8386f985ce08e7120405f1f3eb9ebc3332b2366569c6f3eef9bc79bcd6b67d48c90619ed2e6fe31e4a596c2432c94e451976a9d612bb750d64238496996f2a3b37cd167ba38a11c5a2909582001da2bac9dc824ded98ad7140d9995f5b591a1a30858f0662be9bcee2264680b2048bac218920984be20143a1b9367e30662863b5cf2a4e007140a113af985e6141f0747fd3da62803b02515bc613c6d2d8e742204040e007c40ba94f42e2bbc8bed1e17b8b778bb208935aea508d2d59a761d2d5ac98781c60d894a8cdd1d0b1bc244d5720c1689024d44b3092c57607c3a12208428a7c3abe8c80428cbdc9bc8f799c37e96e478333ac85d0562644288d380728a38687e4f441b97192854564b4a6123bcba06cb5a7dd4f7944873cec509a7181300684c6982a8c91e29bd6054d2292244d2c0ae6020ee2b6aec36589f0553cde41a02810dc9830d622300618abc20b7f028f27f888475bdb1708f3ece7f2d0f399d346305ff12f88473caa8d95e1e9c42087ff0b1e1b21f7e7f163a7b97531a1d6248bf3e3151fec1a3fc126932736d7edd5ecaed1d6466e4638df5397df2076b5b23b74a74280a74f3bbe9f10a9f66b54a7df21d27fdad23b44b889d8472b316f1bdbbff4bf64f5e3ddb72faacc50ddc3c8f2cbc4b13bcdc31705f0e3c84f3bf14fd0eea8fda053e70f9b911feed41c23dca101f757a7deb61c3bb6a64fb1b18e11bbe2a6bb43bf8807dbbdf9ae236cace32b79f0dd9bef86c9dda0079d779697ff0ba273e3e1c037058f0000000049454e44ae426082",
         "imageIndex": 16,
         "kanji": "敗",
-        "lastSeen": 1541160102.080537,
+        "lastSeen": 1541643521.3144991,
         "misses": 3,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 17
+        "timesCorrect": 8,
+        "totalCorrect": 18
       },
       {
         "almost": 0,
@@ -4293,11 +4293,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "福",
-        "lastSeen": 1541109322.7335823,
+        "lastSeen": 1541548059.660795,
         "misses": 4,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 29
+        "timesCorrect": 8,
+        "totalCorrect": 30
       },
       {
         "almost": 0,
@@ -4583,11 +4583,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "開",
-        "lastSeen": 1541109216.9990036,
+        "lastSeen": 1541547865.1250067,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 11
+        "timesCorrect": 8,
+        "totalCorrect": 12
       },
       {
         "almost": 1,
@@ -4663,11 +4663,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "洗",
-        "lastSeen": 1541109172.9000723,
+        "lastSeen": 1541547816.7176833,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 11
+        "timesCorrect": 8,
+        "totalCorrect": 12
       },
       {
         "almost": 0,
@@ -5081,11 +5081,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "妻",
-        "lastSeen": 1540711300.077755,
+        "lastSeen": 1541644233.681988,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 14
+        "timesCorrect": 9,
+        "totalCorrect": 15
       },
       {
         "almost": 0,
@@ -5195,11 +5195,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "招",
-        "lastSeen": 1539435700.4069371,
+        "lastSeen": 1541644347.814642,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 9,
-        "totalCorrect": 7
+        "timesCorrect": 10,
+        "totalCorrect": 8
       },
       {
         "almost": 2,
@@ -5517,11 +5517,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "報",
-        "lastSeen": 1540691682.3805823,
+        "lastSeen": 1541644204.9470658,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 17
+        "timesCorrect": 9,
+        "totalCorrect": 18
       },
       {
         "almost": 0,
@@ -5549,11 +5549,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "北",
-        "lastSeen": 1539435670.7996638,
+        "lastSeen": 1541644331.2958205,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 9,
-        "totalCorrect": 7
+        "timesCorrect": 10,
+        "totalCorrect": 8
       },
       {
         "almost": 0,
@@ -5709,11 +5709,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "昨",
-        "lastSeen": 1539435797.9296587,
+        "lastSeen": 1541644382.8622682,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 9,
-        "totalCorrect": 7
+        "timesCorrect": 10,
+        "totalCorrect": 8
       },
       {
         "almost": 0,
@@ -5757,11 +5757,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "交",
-        "lastSeen": 1539435692.12003,
+        "lastSeen": 1541644341.0570443,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 9,
-        "totalCorrect": 7
+        "timesCorrect": 10,
+        "totalCorrect": 8
       },
       {
         "almost": 0,
@@ -5903,11 +5903,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "必",
-        "lastSeen": 1539435771.5388374,
+        "lastSeen": 1541644357.271023,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 9,
-        "totalCorrect": 7
+        "timesCorrect": 10,
+        "totalCorrect": 8
       },
       {
         "almost": 0,
@@ -5967,11 +5967,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "夫",
-        "lastSeen": 1539435776.8819633,
+        "lastSeen": 1541644362.2574975,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 9,
-        "totalCorrect": 8
+        "timesCorrect": 10,
+        "totalCorrect": 9
       },
       {
         "almost": 0,
@@ -6193,11 +6193,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "回",
-        "lastSeen": 1539345005.320014,
+        "lastSeen": 1541548291.6270933,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 9,
-        "totalCorrect": 3
+        "timesCorrect": 10,
+        "totalCorrect": 4
       },
       {
         "almost": 0,
@@ -6209,11 +6209,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "重",
-        "lastSeen": 1539345042.5146194,
+        "lastSeen": 1541548344.0735626,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 9,
-        "totalCorrect": 7
+        "timesCorrect": 10,
+        "totalCorrect": 8
       },
       {
         "almost": 0,
@@ -6353,14 +6353,14 @@
         "image": null,
         "imageIndex": null,
         "kanji": "少",
-        "lastSeen": 1539435783.8330576,
+        "lastSeen": 1541644374.3262784,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 9,
-        "totalCorrect": 7
+        "timesCorrect": 10,
+        "totalCorrect": 8
       },
       {
-        "almost": 0,
+        "almost": 1,
         "ambiguous": 0,
         "cardType": "kanji",
         "desiredImageIndex": 0,
@@ -6369,11 +6369,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "問",
-        "lastSeen": 1539345019.7849526,
+        "lastSeen": 1541643462.5516698,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 9,
-        "totalCorrect": 7
+        "timesCorrect": 7,
+        "totalCorrect": 8
       },
       {
         "almost": 0,
@@ -6515,11 +6515,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "得",
-        "lastSeen": 1540691654.1573434,
+        "lastSeen": 1541644133.3488169,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 14
+        "timesCorrect": 9,
+        "totalCorrect": 15
       },
       {
         "almost": 0,
@@ -6675,11 +6675,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "工",
-        "lastSeen": 1539435560.9571652,
+        "lastSeen": 1541644317.9220579,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 9,
-        "totalCorrect": 2
+        "timesCorrect": 11,
+        "totalCorrect": 3
       },
       {
         "almost": 1,
@@ -6901,11 +6901,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "聞",
-        "lastSeen": 1539435497.2244787,
+        "lastSeen": 1541644309.5798178,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 9,
-        "totalCorrect": 2
+        "timesCorrect": 11,
+        "totalCorrect": 3
       },
       {
         "almost": 0,
@@ -7029,11 +7029,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "任",
-        "lastSeen": 1540739819.2429867,
+        "lastSeen": 1541644282.7925298,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 15
+        "timesCorrect": 9,
+        "totalCorrect": 16
       },
       {
         "almost": 0,
@@ -7271,11 +7271,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "落",
-        "lastSeen": 1540691667.4913359,
+        "lastSeen": 1541644165.6644132,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 12
+        "timesCorrect": 9,
+        "totalCorrect": 13
       },
       {
         "almost": 0,
@@ -7303,11 +7303,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "親",
-        "lastSeen": 1539435477.1009843,
+        "lastSeen": 1541644301.692723,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 9,
-        "totalCorrect": 2
+        "timesCorrect": 10,
+        "totalCorrect": 3
       },
       {
         "almost": 0,
@@ -7335,11 +7335,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "人",
-        "lastSeen": 1539435533.1511219,
+        "lastSeen": 1541644314.5243218,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 9,
-        "totalCorrect": 2
+        "timesCorrect": 11,
+        "totalCorrect": 3
       },
       {
         "almost": 0,
@@ -7577,11 +7577,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "中",
-        "lastSeen": 1539435571.5698195,
+        "lastSeen": 1541644322.2245903,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 9,
-        "totalCorrect": 2
+        "timesCorrect": 11,
+        "totalCorrect": 3
       },
       {
         "almost": 0,
@@ -8157,11 +8157,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "幸",
-        "lastSeen": 1540691567.2183802,
+        "lastSeen": 1541643994.3356867,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 11
+        "timesCorrect": 9,
+        "totalCorrect": 12
       },
       {
         "almost": 0,
@@ -8276,7 +8276,7 @@
         "totalCorrect": 6
       },
       {
-        "almost": 0,
+        "almost": 1,
         "ambiguous": 0,
         "cardType": "kanji",
         "desiredImageIndex": 0,
@@ -8285,11 +8285,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "絵",
-        "lastSeen": 1540691660.129492,
+        "lastSeen": 1541664404.1519556,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 12
+        "timesCorrect": 6,
+        "totalCorrect": 13
       },
       {
         "almost": 0,
@@ -8356,7 +8356,7 @@
         "totalCorrect": 8
       },
       {
-        "almost": 0,
+        "almost": 2,
         "ambiguous": 0,
         "cardType": "kanji",
         "desiredImageIndex": 0,
@@ -8365,16 +8365,16 @@
         "image": null,
         "imageIndex": null,
         "kanji": "法",
-        "lastSeen": 1540691423.9677954,
+        "lastSeen": 1541669271.1371713,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 8
+        "timesCorrect": 5,
+        "totalCorrect": 9
       }
     ],
     "26": [
       {
-        "almost": 0,
+        "almost": 1,
         "ambiguous": 0,
         "cardType": "kanji",
         "desiredImageIndex": 0,
@@ -8383,11 +8383,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "違",
-        "lastSeen": 1540691626.958306,
+        "lastSeen": 1541664392.2842445,
         "misses": 3,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 12
+        "timesCorrect": 6,
+        "totalCorrect": 13
       },
       {
         "almost": 0,
@@ -8431,11 +8431,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "買",
-        "lastSeen": 1540641288.2135582,
+        "lastSeen": 1541548283.0554996,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 5
+        "timesCorrect": 9,
+        "totalCorrect": 6
       },
       {
         "almost": 0,
@@ -8463,11 +8463,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "病",
-        "lastSeen": 1541140870.1053452,
+        "lastSeen": 1541643513.837014,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 13
+        "timesCorrect": 8,
+        "totalCorrect": 14
       },
       {
         "almost": 0,
@@ -8479,11 +8479,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "呼",
-        "lastSeen": 1540691635.2779171,
+        "lastSeen": 1541644121.8258343,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 13
+        "timesCorrect": 9,
+        "totalCorrect": 14
       },
       {
         "almost": 0,
@@ -8687,11 +8687,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "地",
-        "lastSeen": 1540691417.1202278,
+        "lastSeen": 1541643948.0272572,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 11
+        "timesCorrect": 9,
+        "totalCorrect": 12
       }
     ],
     "27": [
@@ -8705,11 +8705,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "彼",
-        "lastSeen": 1540691169.1484137,
+        "lastSeen": 1541643741.3802595,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 6
+        "timesCorrect": 9,
+        "totalCorrect": 7
       },
       {
         "almost": 1,
@@ -8833,11 +8833,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "利",
-        "lastSeen": 1540691035.3827116,
+        "lastSeen": 1541643613.3557181,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 5
+        "timesCorrect": 9,
+        "totalCorrect": 6
       },
       {
         "almost": 0,
@@ -8865,11 +8865,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "求",
-        "lastSeen": 1540814589.0813835,
+        "lastSeen": 1541680995.3509119,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 11
+        "timesCorrect": 9,
+        "totalCorrect": 12
       },
       {
         "almost": 0,
@@ -8881,11 +8881,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "船",
-        "lastSeen": 1540691073.5471258,
+        "lastSeen": 1541643645.7093313,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 7
+        "timesCorrect": 9,
+        "totalCorrect": 8
       },
       {
         "almost": 1,
@@ -8897,11 +8897,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "雪",
-        "lastSeen": 1540691045.2332697,
+        "lastSeen": 1541643623.0001729,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 5
+        "timesCorrect": 9,
+        "totalCorrect": 6
       },
       {
         "almost": 0,
@@ -8913,11 +8913,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "駅",
-        "lastSeen": 1540691161.3198948,
+        "lastSeen": 1541643719.8221812,
         "misses": 1,
         "studyGroup": 0,
         "timesCorrect": 8,
-        "totalCorrect": 6
+        "totalCorrect": 7
       },
       {
         "almost": 0,
@@ -8929,11 +8929,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "要",
-        "lastSeen": 1540641046.426511,
+        "lastSeen": 1541548091.8032277,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 3
+        "timesCorrect": 9,
+        "totalCorrect": 4
       },
       {
         "almost": 0,
@@ -8977,11 +8977,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "研",
-        "lastSeen": 1540641065.179417,
+        "lastSeen": 1541548153.4836886,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 3
+        "timesCorrect": 9,
+        "totalCorrect": 4
       },
       {
         "almost": 0,
@@ -8993,11 +8993,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "制",
-        "lastSeen": 1540691431.4465804,
+        "lastSeen": 1541643964.5087955,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 10
+        "timesCorrect": 9,
+        "totalCorrect": 11
       },
       {
         "almost": 0,
@@ -9009,11 +9009,11 @@
         "image": "ffd8ffe000104a46494600010100000100010000ffdb008400090607080706090807080a0a090b0d160f0d0c0c0d1b14151016201d2222201d1f1f2428342c242631271f1f2d3d2d3135373a3a3a232b3f443f384334393a37010a0a0a0d0c0d1a0f0f1a37251f253737373737373737373737373737373737373737373737373737373737373737373737373737373737373737373737373737ffc00011080053006f03012200021101031101ffc4001c0000010501010100000000000000000000040002030506070108ffc4003b10000201020404020805030207000000000102030011041221310541516113f0062232718191b1c11442a1d1e107238233521534437292a2c2ffc4001a010002030101000000000000000000000002030104050006ffc400291100020201030401020700000000000000000102110321314104123251051322142333426181b1ffda000c03010002110311003f00e1ea69d7d2a3af6f514450e26bcb5782e7415b6f417d1e59d5789e2d030248c346c2e0db4321ec0e83a9bffb750cb9638a0e72d91cdd233587e05c5f131a4986e158f963717468f0cec1875040d6b4be8f7a0388c691271499f0ab7b7828b793e2765fd4f502ba4191516d6ceefa296d49f8d17c32055ca2ded1bb31f9d60e6f98c9d8fb6342fbef4473ee2bfd2e97313c2b187403d4c48fa328fb5570fe99f175369b178143fed0cec6ff00f8d761f14b66445d335cb5b6f3af9bd34645be4076d2fb9d2ab43e63aa8aa74ffa0ace07e907a31c47801438e4468a43659a224a13d350083ef1afc0d57c182795336c3bd7d138e8f0b3ac987c542b3c6eb6313a0653d2e0d657887a13c327c3c87050b6065b12a448ccbf1524e9eeb7dab57a3f97c53a59d57f8736f838d491989f2b6e295f4ad2f17f42bd2081de4181fc422e97c336727fc7463f2aa2c570fc760d0362f05898149b032c4c80fcc569a9e39f83b44ee88e393bd16310ac839102abb506bdcda544a0990e2474a953e24792458e3467763955545cb13b014c0cbef43780ff00c671ecf88ff92c3d9a7b1b17bdf2a0e85ac75e4013d01e9a8d91d9e20aaa0654545caaaa0580006c3a0ed40e0700bc1385c1c3a20a5d7fd66537cf2b7b47ddb01d97bd4b7202a21bb3e805abcff5b99e79d2f1455c93b741f86579a62e2e625f541f3daae19fc00b1c67d73a0b6f6daf4060d04080922ca3dab5be26a7c1482499b10cd9586882db7cfcef59735dcef8474742c1018210a5429245edccf9b50f88c43899e288666232dc72ebf5f3a5d93e2892628c1773b1e83cf9d2a4c3c6215399b339f69bbd2d46bee90577a21e81512e0866beb7d4934dc44aaa5119acba9fd36a6cf324455d8922f6d39d0d1a7e25ff001130197f2a0f3e7e5628c3f7339cb8458c529947f6c858c1ddb734f930f04987613d994dd5836a1bb1074a19a54895893d08d77a9b0e8cee3112b00a0dedc97f9a0d63aad094cc4719fe98e1318b2cfc1e4970d2b5d96296cd1fb8003328f9dba572de2380c5f0ec5c985c761de09e33668dc58ff23b8d0d7d370334decda3888be6e67f6a07d28f4678771fc247063d18adee9286b3a1dcd89db6b1f36d4e93e625097667d57be50e5b1f345ab57fd3dc009b8abe3e45ba604064dbfd66d13e22ccdfe159a54bef5d0b81e18f0be0f86c3d809a6be2660dc8b01914fb96c7b166addea7276e275b8bc93a896cf2679b7f5146fdbcfd289c0212cd3383d16f6dff008fb9aaf8755d49d75bb1fd4f9dfa8bd8a7c40c3a84402e0733b0ea4f4fe6b0a5075da8a88b1c5e200558908d77075faf2d0fcadcf57fe256185554dc91b93b1eb5491c9a877b93eca0b10493dba9fb01caa6c2b9661266040d8820dfdddaff003dfa5a1e04957089b3418421119dd6d235c92c76f879e5d05110ca0a9964b5ada03f945562499ca457b927d6d77f37fa5798ac4e6223422c4d8dc684f4b761bfc073155fe93948352a0947fc4cc4b9bc2badbadfcf9d68af13333331b226849a0229046322137f7ee4ee4d3a5c428cb05ec8402cc0ef6d7eff004eb532c76f421482f0e8711378ae3d504e507977f3d28ec381294ce7fb40d945bdb3d6ab25c4c00470ab650dbf61e7f9af178ae1a226469a25b5954161a77a54b1ca5c04a491a6f1445116246543a773d69cb2e660f88566276507d9f9d678f17898218d2428ab98158d9813c8e9ca9371c484b7a927aba0320cbf5b523f0b3f437ea238bf09c244988188e231334282eb185b891ae2c1b5f67727adada5ee35b26294c6273e24b24c73b0914a5f5bdc9d2e2fd3737f66d63918fd22e26641f8bc7e2f1709d1e19b10ecac3b5ce87a11b1ab8725151958cb038f1233b68c371d0f5e571af2b7adcd193d58392a8b58f1b31be4f014ef99f108b6e9dbec2d42e271b219cc6a6c50d99591ae5b9020721a585fbf4b3639f3c601607bed7e5b7dbad7925b329d2d97d5274d2f6ca7b74e84db6dab4609312abd04c2e6640a67542da090c6722027507dfa6bd09eb5341262af62b32b292194aa8b11a7535e61595995ad707421b43dfddfb802acd62c8d7b0e9703da0397c397616e40109b4b422d3e086369b3333b4a8c52ca7c5017377f576d77e57ed4f48e59c0668f23a82b90bbe86fadc5f7bfd00d851e9006b65b35c72d74a6aa189d0eb77d00ea05ac3de3975db90bd7ef4f6dceb60eb8593322b0402d7f6a4b93dbd7f36a74f8690ce8a44699465f554917eba937bfff0036db2d5a2a878d42b5c917461cebd68bc58efa66516fe294b2bbd4ed4ae6e1b9c46652965cdaf829a5f5bfb3eef229cb85952607c69d17419524645eda0b0e5d3903d6ad30d692365b1cdb1045b5ebeff3ef9a18d5ef13e5db4079d03cf25764eac1e2e1d87905a640e596c18eb6e9afce8dc3e0e10a45955d7a6950e49306e2e33477dc6a479f3dcf4caeaac0fb8a9d4555c9397bd038a47ce1735a5e0929c4709285acd8592daf347b91f260c7fc8567234cc6afbd1b53163bc23b6290c36bfe6d0a7fec00f8d7af9c7ba2d21f91aaa0cf11a370ca0efb7d7f6f974a2e2901d0d8861cc50720055b720f9fdebcc2c995f2391a1d0936aa4d5a2a9798556492c2f6d3313cf903a73be87e1cef5a4c1c69226426c6da1bd8e9f4aa4c32f890a1f559869a9eba11d6c7ee6ae386cca3fb4c403f96f604ff003b83caa8f516d5ae010bc2ab46e2375caada8b7e53f607f4371d2e6bc0b246e1ecc325b4a61844e85ad63a5be3bd3f0b36621241620ee773dbbf9f70a337ddf72dc24409fd899a39aee09b924f3ebfbfcfad8b30b2d9906fbae9a8ed52985655f5f9906f5046af86ca1fd680f31f9685cbbb55b935445242c49962b871cf6bd15090e7c375c8e06aa4febe7f9a9d55668dad7ecc3af7a7bc51b943228d1b53d3e34a73e18490d8e33a8f685ed7e63c8a49108dd7c22416dd40f7f2a17178bc3e03307c57ac3fe98f5dfe436e56bdab23c53d2e7924f030a1e24075790d9cfbada28f99efca9b8fa7c937fc05472fc27fab6a3d98a80549046a08e54a957bcf8f5f98cecbe45f712d7152bf364121ff00b88527f5274aad63660472bd2a558afc98be4d3f063990df5e7fa8ab3c3927124126d6536ee4d8f9f752a55465e4c0349b40846e54dfe54fc5a8fc321b6a0a283d8da952ac98794437b12e1dd9f0d1bb1f5ac0de8c840212e06e7eb4a95267b06b606c401091e10cba91a557716c4cf070bc64d148cb24718c8c371eb01f734a955ae952938b647251e140fc38d37dfbd647d2051f89b81adf7a54aad747faac3f47ffd9",
         "imageIndex": 0,
         "kanji": "葉",
-        "lastSeen": 1540641090.6926324,
+        "lastSeen": 1541548161.7792454,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 3
+        "timesCorrect": 9,
+        "totalCorrect": 4
       }
     ],
     "28": [
@@ -9059,11 +9059,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "際",
-        "lastSeen": 1540691183.5055778,
+        "lastSeen": 1541643759.7107625,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 5
+        "timesCorrect": 9,
+        "totalCorrect": 6
       },
       {
         "almost": 0,
@@ -9075,11 +9075,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "知",
-        "lastSeen": 1540691227.1619427,
+        "lastSeen": 1541643766.874358,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 5
+        "timesCorrect": 9,
+        "totalCorrect": 6
       },
       {
         "almost": 0,
@@ -9091,11 +9091,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "置",
-        "lastSeen": 1540691268.9366672,
+        "lastSeen": 1541643923.2724864,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 5
+        "timesCorrect": 9,
+        "totalCorrect": 6
       },
       {
         "almost": 0,
@@ -9123,14 +9123,14 @@
         "image": null,
         "imageIndex": null,
         "kanji": "計",
-        "lastSeen": 1540691336.4153953,
+        "lastSeen": 1541643939.4642186,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 6
+        "timesCorrect": 9,
+        "totalCorrect": 7
       },
       {
-        "almost": 0,
+        "almost": 1,
         "ambiguous": 0,
         "cardType": "kanji",
         "desiredImageIndex": 0,
@@ -9139,11 +9139,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "始",
-        "lastSeen": 1540691106.1837993,
+        "lastSeen": 1541664374.0034575,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 5
+        "timesCorrect": 6,
+        "totalCorrect": 6
       },
       {
         "almost": 0,
@@ -9155,11 +9155,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "想",
-        "lastSeen": 1540691445.7179577,
+        "lastSeen": 1541643974.6355247,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 10
+        "timesCorrect": 9,
+        "totalCorrect": 11
       },
       {
         "almost": 1,
@@ -9203,14 +9203,14 @@
         "image": null,
         "imageIndex": null,
         "kanji": "鳥",
-        "lastSeen": 1540641142.8405764,
+        "lastSeen": 1541548208.922279,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 3
+        "timesCorrect": 9,
+        "totalCorrect": 4
       },
       {
-        "almost": 0,
+        "almost": 1,
         "ambiguous": 0,
         "cardType": "kanji",
         "desiredImageIndex": 0,
@@ -9219,11 +9219,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "使",
-        "lastSeen": 1540690981.242855,
+        "lastSeen": 1541664362.2438662,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 5
+        "timesCorrect": 6,
+        "totalCorrect": 6
       },
       {
         "almost": 0,
@@ -9251,11 +9251,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "曜",
-        "lastSeen": 1540641118.3171036,
+        "lastSeen": 1541548188.1399274,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 3
+        "timesCorrect": 9,
+        "totalCorrect": 4
       },
       {
         "almost": 0,
@@ -9267,11 +9267,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "両",
-        "lastSeen": 1540641173.7194314,
+        "lastSeen": 1541548239.613413,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 3
+        "timesCorrect": 9,
+        "totalCorrect": 4
       },
       {
         "almost": 0,
@@ -9283,11 +9283,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "富",
-        "lastSeen": 1540691261.5422382,
+        "lastSeen": 1541643784.6206086,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 5
+        "timesCorrect": 9,
+        "totalCorrect": 6
       },
       {
         "almost": 0,
@@ -9299,11 +9299,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "完",
-        "lastSeen": 1540641179.263691,
+        "lastSeen": 1541548276.311945,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 3
+        "timesCorrect": 9,
+        "totalCorrect": 4
       },
       {
         "almost": 0,
@@ -9349,11 +9349,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "抜",
-        "lastSeen": 1540690991.0696764,
+        "lastSeen": 1541643583.9096453,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 5
+        "timesCorrect": 9,
+        "totalCorrect": 6
       },
       {
         "almost": 0,
@@ -9365,11 +9365,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "花",
-        "lastSeen": 1540691062.7800238,
+        "lastSeen": 1541643630.1562703,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 5
+        "timesCorrect": 9,
+        "totalCorrect": 6
       },
       {
         "almost": 0,
@@ -9381,11 +9381,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "平",
-        "lastSeen": 1540641134.1680179,
+        "lastSeen": 1541548201.0407255,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 3
+        "timesCorrect": 9,
+        "totalCorrect": 4
       },
       {
         "almost": 1,
@@ -9397,11 +9397,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "数",
-        "lastSeen": 1540814583.3894029,
+        "lastSeen": 1541680986.4552128,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 7
+        "timesCorrect": 9,
+        "totalCorrect": 8
       },
       {
         "almost": 0,
@@ -9413,11 +9413,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "側",
-        "lastSeen": 1540779525.7202616,
+        "lastSeen": 1541644292.117657,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 6
+        "timesCorrect": 9,
+        "totalCorrect": 7
       },
       {
         "almost": 0,
@@ -9429,11 +9429,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "猫",
-        "lastSeen": 1540641150.3310204,
+        "lastSeen": 1541548216.8434448,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 3
+        "timesCorrect": 9,
+        "totalCorrect": 4
       },
       {
         "almost": 0,
@@ -9445,11 +9445,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "待",
-        "lastSeen": 1540691254.0965192,
+        "lastSeen": 1541643774.7597606,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 6
+        "timesCorrect": 9,
+        "totalCorrect": 7
       },
       {
         "almost": 0,
@@ -9493,11 +9493,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "切",
-        "lastSeen": 1540641127.8522797,
+        "lastSeen": 1541548194.2805023,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 3
+        "timesCorrect": 9,
+        "totalCorrect": 4
       },
       {
         "almost": 1,
@@ -9525,11 +9525,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "機",
-        "lastSeen": 1540641102.5571713,
+        "lastSeen": 1541548174.291038,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 3
+        "timesCorrect": 9,
+        "totalCorrect": 4
       },
       {
         "almost": 1,
@@ -9541,11 +9541,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "良",
-        "lastSeen": 1540691330.6607618,
+        "lastSeen": 1541643931.6344094,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 5
+        "timesCorrect": 9,
+        "totalCorrect": 6
       },
       {
         "almost": 0,
@@ -9557,11 +9557,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "姉",
-        "lastSeen": 1540641167.7762132,
+        "lastSeen": 1541548226.5763526,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 3
+        "timesCorrect": 9,
+        "totalCorrect": 4
       }
     ]
   },
