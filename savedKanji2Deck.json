@@ -557,11 +557,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "閉める",
-        "lastSeen": 1541664828.8009808,
+        "lastSeen": 1542278722.358082,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 5
+        "timesCorrect": 8,
+        "totalCorrect": 6
       },
       {
         "almost": 0,
@@ -1096,7 +1096,7 @@
         "totalCorrect": 8
       },
       {
-        "almost": 1,
+        "almost": 2,
         "ambiguous": 0,
         "cardType": "kanji2",
         "desiredImageIndex": 0,
@@ -1105,10 +1105,10 @@
         "image": null,
         "imageIndex": null,
         "kanji": "悲しい",
-        "lastSeen": 1541209209.846147,
+        "lastSeen": 1542279141.441363,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
+        "timesCorrect": 4,
         "totalCorrect": 5
       },
       {
@@ -1256,7 +1256,7 @@
         "totalCorrect": 2
       },
       {
-        "almost": 2,
+        "almost": 3,
         "ambiguous": 0,
         "cardType": "kanji2",
         "desiredImageIndex": 0,
@@ -1265,10 +1265,10 @@
         "image": null,
         "imageIndex": null,
         "kanji": "広告",
-        "lastSeen": 1541664803.90194,
+        "lastSeen": 1542278690.8523376,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 7,
+        "timesCorrect": 3,
         "totalCorrect": 13
       },
       {
@@ -1653,11 +1653,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "期間",
-        "lastSeen": 1541664610.735653,
+        "lastSeen": 1542278531.96155,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 12
+        "timesCorrect": 8,
+        "totalCorrect": 13
       },
       {
         "almost": 0,
@@ -2313,11 +2313,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "速度",
-        "lastSeen": 1542111167.5370262,
+        "lastSeen": 1542278409.026274,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 6
+        "timesCorrect": 7,
+        "totalCorrect": 7
       },
       {
         "almost": 0,
@@ -2393,11 +2393,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "物質",
-        "lastSeen": 1542111121.1247976,
+        "lastSeen": 1542278381.6341336,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 10
+        "timesCorrect": 7,
+        "totalCorrect": 11
       },
       {
         "almost": 0,
@@ -2544,7 +2544,7 @@
         "totalCorrect": 2
       },
       {
-        "almost": 2,
+        "almost": 3,
         "ambiguous": 0,
         "cardType": "kanji2",
         "desiredImageIndex": 0,
@@ -2553,10 +2553,10 @@
         "image": null,
         "imageIndex": null,
         "kanji": "更に",
-        "lastSeen": 1541664769.6244295,
+        "lastSeen": 1542278663.8108413,
         "misses": 3,
         "studyGroup": 0,
-        "timesCorrect": 7,
+        "timesCorrect": 3,
         "totalCorrect": 19
       },
       {
@@ -2827,11 +2827,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "都",
-        "lastSeen": 1541664574.140464,
+        "lastSeen": 1542278485.2824543,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 14
+        "timesCorrect": 8,
+        "totalCorrect": 15
       },
       {
         "almost": 0,
@@ -2891,11 +2891,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "相当",
-        "lastSeen": 1542025325.627121,
+        "lastSeen": 1542278264.5372791,
         "misses": 2,
         "studyGroup": 0,
         "timesCorrect": 6,
-        "totalCorrect": 17
+        "totalCorrect": 18
       }
     ],
     "9": [
@@ -3923,11 +3923,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "閉じる",
-        "lastSeen": 1541665515.8210917,
+        "lastSeen": 1542278760.0260777,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 10
+        "timesCorrect": 8,
+        "totalCorrect": 11
       },
       {
         "almost": 0,
@@ -4453,11 +4453,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "実験",
-        "lastSeen": 1541664757.787233,
+        "lastSeen": 1542278644.5911417,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 8
+        "timesCorrect": 8,
+        "totalCorrect": 9
       },
       {
         "almost": 0,
@@ -5951,11 +5951,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "確実",
-        "lastSeen": 1541664737.6783614,
+        "lastSeen": 1542278609.3311563,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 18
+        "timesCorrect": 8,
+        "totalCorrect": 19
       },
       {
         "almost": 0,
@@ -6054,7 +6054,7 @@
         "totalCorrect": 8
       },
       {
-        "almost": 1,
+        "almost": 2,
         "ambiguous": 0,
         "cardType": "kanji2",
         "desiredImageIndex": 0,
@@ -6063,10 +6063,10 @@
         "image": null,
         "imageIndex": null,
         "kanji": "決定",
-        "lastSeen": 1541665013.4867198,
+        "lastSeen": 1542278743.0113742,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 7,
+        "timesCorrect": 3,
         "totalCorrect": 10
       },
       {
@@ -6257,11 +6257,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "別",
-        "lastSeen": 1542025501.908907,
+        "lastSeen": 1542278336.6609702,
         "misses": 1,
         "studyGroup": 0,
         "timesCorrect": 6,
-        "totalCorrect": 10
+        "totalCorrect": 11
       },
       {
         "almost": 0,
@@ -6691,11 +6691,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "得意",
-        "lastSeen": 1542025493.5110114,
+        "lastSeen": 1542278317.2014403,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 13
+        "timesCorrect": 7,
+        "totalCorrect": 14
       },
       {
         "almost": 0,
@@ -7899,11 +7899,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "陽気",
-        "lastSeen": 1541664617.7723243,
+        "lastSeen": 1542278541.2912712,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 14
+        "timesCorrect": 8,
+        "totalCorrect": 15
       },
       {
         "almost": 0,
@@ -8077,11 +8077,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "生地",
-        "lastSeen": 1542111153.2216418,
+        "lastSeen": 1542278395.7779229,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 10
+        "timesCorrect": 7,
+        "totalCorrect": 11
       },
       {
         "almost": 0,
@@ -8447,11 +8447,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "流す",
-        "lastSeen": 1541667046.066832,
+        "lastSeen": 1542278773.719184,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 10
+        "timesCorrect": 8,
+        "totalCorrect": 11
       },
       {
         "almost": 1,
@@ -9155,11 +9155,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "道路",
-        "lastSeen": 1542111101.9420831,
+        "lastSeen": 1542278361.3748806,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 9
+        "timesCorrect": 7,
+        "totalCorrect": 10
       },
       {
         "almost": 1,
@@ -9267,11 +9267,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "利用",
-        "lastSeen": 1542111164.4815445,
+        "lastSeen": 1542278402.709338,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 9
+        "timesCorrect": 7,
+        "totalCorrect": 10
       },
       {
         "almost": 0,
@@ -9331,11 +9331,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "苦手",
-        "lastSeen": 1541208556.8950067,
+        "lastSeen": 1542278883.0876324,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 8
+        "timesCorrect": 9,
+        "totalCorrect": 9
       }
     ],
     "29": [
@@ -9621,11 +9621,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "方向",
-        "lastSeen": 1542111113.7585902,
+        "lastSeen": 1542278368.8019025,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 9
+        "timesCorrect": 7,
+        "totalCorrect": 10
       },
       {
         "almost": 0,
@@ -9815,11 +9815,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "正式",
-        "lastSeen": 1542111093.1862743,
+        "lastSeen": 1542278348.758824,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 8
+        "timesCorrect": 7,
+        "totalCorrect": 9
       },
       {
         "almost": 0,
@@ -9847,11 +9847,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "割合",
-        "lastSeen": 1542025230.6157143,
+        "lastSeen": 1542278186.314936,
         "misses": 3,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 14
+        "timesCorrect": 7,
+        "totalCorrect": 15
       },
       {
         "almost": 0,
@@ -9895,11 +9895,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "人種",
-        "lastSeen": 1542111086.6739771,
+        "lastSeen": 1542278341.3107998,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 7
+        "timesCorrect": 7,
+        "totalCorrect": 8
       },
       {
         "almost": 0,
@@ -10185,11 +10185,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "引き出す",
-        "lastSeen": 1541664481.8287063,
+        "lastSeen": 1542278414.5775528,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 8
+        "timesCorrect": 8,
+        "totalCorrect": 9
       },
       {
         "almost": 0,
@@ -10653,11 +10653,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "一生",
-        "lastSeen": 1542111096.1891158,
+        "lastSeen": 1542278356.2249713,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 8
+        "timesCorrect": 7,
+        "totalCorrect": 9
       },
       {
         "almost": 0,
@@ -10877,11 +10877,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "上達",
-        "lastSeen": 1542111159.7051651,
+        "lastSeen": 1542278398.6567392,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 9
+        "timesCorrect": 7,
+        "totalCorrect": 10
       },
       {
         "almost": 0,
@@ -11039,11 +11039,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "偉大",
-        "lastSeen": 1542111142.726073,
+        "lastSeen": 1542278386.2622607,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 8
+        "timesCorrect": 7,
+        "totalCorrect": 9
       },
       {
         "almost": 0,
@@ -11135,11 +11135,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "任せる",
-        "lastSeen": 1542111149.1311092,
+        "lastSeen": 1542278391.0751538,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 8
+        "timesCorrect": 7,
+        "totalCorrect": 9
       },
       {
         "almost": 0,
@@ -11281,11 +11281,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "単なる",
-        "lastSeen": 1541209040.406763,
+        "lastSeen": 1542278998.833973,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 5
+        "timesCorrect": 9,
+        "totalCorrect": 6
       },
       {
         "almost": 0,
@@ -11361,11 +11361,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "数学",
-        "lastSeen": 1541739787.5341012,
+        "lastSeen": 1542278777.7077627,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 5
+        "timesCorrect": 9,
+        "totalCorrect": 6
       },
       {
         "almost": 1,
@@ -11603,14 +11603,14 @@
         "image": null,
         "imageIndex": null,
         "kanji": "真似",
-        "lastSeen": 1541209283.6325815,
+        "lastSeen": 1542279161.3567772,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 7
+        "timesCorrect": 9,
+        "totalCorrect": 8
       },
       {
-        "almost": 1,
+        "almost": 2,
         "ambiguous": 0,
         "cardType": "kanji2",
         "desiredImageIndex": 0,
@@ -11619,10 +11619,10 @@
         "image": null,
         "imageIndex": null,
         "kanji": "成長",
-        "lastSeen": 1541208977.507705,
+        "lastSeen": 1542278976.6618857,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
+        "timesCorrect": 4,
         "totalCorrect": 5
       },
       {
@@ -11667,11 +11667,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "主要",
-        "lastSeen": 1542111196.3954425,
+        "lastSeen": 1542278174.865142,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 3,
-        "totalCorrect": 15
+        "timesCorrect": 7,
+        "totalCorrect": 16
       },
       {
         "almost": 0,
@@ -11925,11 +11925,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "生物",
-        "lastSeen": 1541209305.7248516,
+        "lastSeen": 1542279168.9792,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 7
+        "timesCorrect": 9,
+        "totalCorrect": 8
       },
       {
         "almost": 1,
@@ -12608,7 +12608,7 @@
         "totalCorrect": 3
       },
       {
-        "almost": 0,
+        "almost": 1,
         "ambiguous": 0,
         "cardType": "kanji2",
         "desiredImageIndex": 0,
@@ -12617,10 +12617,10 @@
         "image": null,
         "imageIndex": null,
         "kanji": "経つ",
-        "lastSeen": 1541209077.3426578,
+        "lastSeen": 1542279039.5655262,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
+        "timesCorrect": 4,
         "totalCorrect": 5
       },
       {
@@ -12697,11 +12697,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "不利",
-        "lastSeen": 1542025497.6252182,
+        "lastSeen": 1542278330.0661607,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 16
+        "timesCorrect": 7,
+        "totalCorrect": 17
       },
       {
         "almost": 0,
@@ -13261,11 +13261,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "日光",
-        "lastSeen": 1541209125.7001576,
+        "lastSeen": 1542279077.491484,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 5
+        "timesCorrect": 9,
+        "totalCorrect": 6
       },
       {
         "almost": 0,
@@ -13535,11 +13535,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "国家",
-        "lastSeen": 1541209142.877735,
+        "lastSeen": 1542279091.8266993,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 6
+        "timesCorrect": 9,
+        "totalCorrect": 7
       },
       {
         "almost": 0,
@@ -13695,11 +13695,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "降り出す",
-        "lastSeen": 1542111138.9924502,
+        "lastSeen": 1542278383.895224,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 6
+        "timesCorrect": 7,
+        "totalCorrect": 7
       },
       {
         "almost": 0,
@@ -13759,11 +13759,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "不平",
-        "lastSeen": 1542025334.1137416,
+        "lastSeen": 1542278276.032421,
         "misses": 2,
         "studyGroup": 0,
         "timesCorrect": 6,
-        "totalCorrect": 15
+        "totalCorrect": 16
       },
       {
         "almost": 0,
@@ -13857,11 +13857,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "見舞い",
-        "lastSeen": 1541209146.3044086,
+        "lastSeen": 1542279102.7791011,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 6
+        "timesCorrect": 9,
+        "totalCorrect": 7
       },
       {
         "almost": 0,
@@ -13880,7 +13880,7 @@
         "totalCorrect": 8
       },
       {
-        "almost": 0,
+        "almost": 1,
         "ambiguous": 0,
         "cardType": "kanji2",
         "desiredImageIndex": 0,
@@ -13889,10 +13889,10 @@
         "image": null,
         "imageIndex": null,
         "kanji": "解ける",
-        "lastSeen": 1541209152.0930636,
+        "lastSeen": 1542279118.9646556,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
+        "timesCorrect": 4,
         "totalCorrect": 7
       },
       {
@@ -14097,11 +14097,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "役に立つ",
-        "lastSeen": 1541209097.1927726,
+        "lastSeen": 1542279070.5741453,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 5
+        "timesCorrect": 9,
+        "totalCorrect": 6
       },
       {
         "almost": 0,
@@ -14211,11 +14211,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "便",
-        "lastSeen": 1541664760.923229,
+        "lastSeen": 1542278647.9115655,
         "misses": 7,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 29
+        "timesCorrect": 8,
+        "totalCorrect": 30
       },
       {
         "almost": 0,
@@ -14442,7 +14442,7 @@
         "totalCorrect": 2
       },
       {
-        "almost": 0,
+        "almost": 1,
         "ambiguous": 0,
         "cardType": "kanji2",
         "desiredImageIndex": 0,
@@ -14451,10 +14451,10 @@
         "image": null,
         "imageIndex": null,
         "kanji": "失敗",
-        "lastSeen": 1541209053.3637037,
+        "lastSeen": 1542279025.3797815,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
+        "timesCorrect": 4,
         "totalCorrect": 5
       },
       {
@@ -14565,11 +14565,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "夫人",
-        "lastSeen": 1541209045.192475,
+        "lastSeen": 1542279010.979046,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 7
+        "timesCorrect": 9,
+        "totalCorrect": 8
       },
       {
         "almost": 0,
@@ -14652,7 +14652,7 @@
         "totalCorrect": 9
       },
       {
-        "almost": 0,
+        "almost": 1,
         "ambiguous": 0,
         "cardType": "kanji2",
         "desiredImageIndex": 0,
@@ -14661,10 +14661,10 @@
         "image": null,
         "imageIndex": null,
         "kanji": "家庭",
-        "lastSeen": 1541209026.2464645,
+        "lastSeen": 1542278988.483864,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
+        "timesCorrect": 4,
         "totalCorrect": 6
       },
       {
@@ -14732,7 +14732,7 @@
         "totalCorrect": 11
       },
       {
-        "almost": 1,
+        "almost": 2,
         "ambiguous": 0,
         "cardType": "kanji2",
         "desiredImageIndex": 0,
@@ -14741,11 +14741,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "様子",
-        "lastSeen": 1541664601.779122,
+        "lastSeen": 1542279136.1071486,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 13
+        "timesCorrect": 4,
+        "totalCorrect": 14
       },
       {
         "almost": 0,
@@ -14862,7 +14862,7 @@
         "totalCorrect": 4
       },
       {
-        "almost": 0,
+        "almost": 1,
         "ambiguous": 0,
         "cardType": "kanji2",
         "desiredImageIndex": 0,
@@ -14871,10 +14871,10 @@
         "image": null,
         "imageIndex": null,
         "kanji": "進歩",
-        "lastSeen": 1541209089.1250389,
+        "lastSeen": 1542279066.7672274,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
+        "timesCorrect": 4,
         "totalCorrect": 6
       },
       {
@@ -15054,7 +15054,7 @@
         "totalCorrect": 3
       },
       {
-        "almost": 1,
+        "almost": 2,
         "ambiguous": 0,
         "cardType": "kanji2",
         "desiredImageIndex": 0,
@@ -15063,10 +15063,10 @@
         "image": null,
         "imageIndex": null,
         "kanji": "感心",
-        "lastSeen": 1541664765.4709911,
+        "lastSeen": 1542278658.4633613,
         "misses": 6,
         "studyGroup": 0,
-        "timesCorrect": 7,
+        "timesCorrect": 3,
         "totalCorrect": 23
       },
       {
@@ -15193,11 +15193,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "老い",
-        "lastSeen": 1541209276.838374,
+        "lastSeen": 1542279153.3222492,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 6
+        "timesCorrect": 9,
+        "totalCorrect": 7
       },
       {
         "almost": 0,
@@ -15499,11 +15499,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "上京",
-        "lastSeen": 1541209242.7372313,
+        "lastSeen": 1542279149.9494288,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 6
+        "timesCorrect": 9,
+        "totalCorrect": 7
       },
       {
         "almost": 0,
@@ -15707,11 +15707,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "成人",
-        "lastSeen": 1542025405.1028485,
+        "lastSeen": 1542278302.1535392,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 12
+        "timesCorrect": 7,
+        "totalCorrect": 13
       },
       {
         "almost": 0,
@@ -15771,11 +15771,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "決る",
-        "lastSeen": 1541209073.0966487,
+        "lastSeen": 1542279030.2080836,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 4
+        "timesCorrect": 9,
+        "totalCorrect": 5
       }
     ],
     "49": [
@@ -15917,11 +15917,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "深刻",
-        "lastSeen": 1542025234.1733053,
+        "lastSeen": 1542278191.7801728,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 12
+        "timesCorrect": 7,
+        "totalCorrect": 13
       },
       {
         "almost": 0,
@@ -16150,7 +16150,7 @@
         "totalCorrect": 4
       },
       {
-        "almost": 2,
+        "almost": 3,
         "ambiguous": 0,
         "cardType": "kanji2",
         "desiredImageIndex": 0,
@@ -16159,10 +16159,10 @@
         "image": null,
         "imageIndex": null,
         "kanji": "計画",
-        "lastSeen": 1541664746.901164,
+        "lastSeen": 1542278632.7922893,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 7,
+        "timesCorrect": 3,
         "totalCorrect": 12
       },
       {
@@ -16207,11 +16207,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "急",
-        "lastSeen": 1541208750.4333897,
+        "lastSeen": 1542278909.7936692,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 2
+        "timesCorrect": 9,
+        "totalCorrect": 3
       },
       {
         "almost": 0,
@@ -16440,7 +16440,7 @@
         "totalCorrect": 3
       },
       {
-        "almost": 3,
+        "almost": 4,
         "ambiguous": 0,
         "cardType": "kanji2",
         "desiredImageIndex": 0,
@@ -16449,10 +16449,10 @@
         "image": null,
         "imageIndex": null,
         "kanji": "時刻",
-        "lastSeen": 1541666730.3780568,
+        "lastSeen": 1542278766.0650089,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 7,
+        "timesCorrect": 3,
         "totalCorrect": 11
       },
       {
@@ -16577,14 +16577,14 @@
         "image": null,
         "imageIndex": null,
         "kanji": "冷静",
-        "lastSeen": 1541664820.463363,
+        "lastSeen": 1542278716.8006706,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 14
+        "timesCorrect": 8,
+        "totalCorrect": 15
       },
       {
-        "almost": 5,
+        "almost": 6,
         "ambiguous": 0,
         "cardType": "kanji2",
         "desiredImageIndex": 0,
@@ -16593,11 +16593,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "感覚",
-        "lastSeen": 1541664584.5583625,
+        "lastSeen": 1542279126.4727483,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 21
+        "timesCorrect": 4,
+        "totalCorrect": 22
       },
       {
         "almost": 0,
@@ -17011,11 +17011,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "読書",
-        "lastSeen": 1541208984.3940873,
+        "lastSeen": 1542278981.0873744,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 5
+        "timesCorrect": 9,
+        "totalCorrect": 6
       },
       {
         "almost": 0,
@@ -17084,7 +17084,7 @@
         "totalCorrect": 5
       },
       {
-        "almost": 3,
+        "almost": 4,
         "ambiguous": 0,
         "cardType": "kanji2",
         "desiredImageIndex": 0,
@@ -17093,11 +17093,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "共通",
-        "lastSeen": 1542025293.4830875,
+        "lastSeen": 1542278847.811427,
         "misses": 3,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 13
+        "timesCorrect": 4,
+        "totalCorrect": 14
       },
       {
         "almost": 1,
@@ -17897,11 +17897,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "着物",
-        "lastSeen": 1541208846.8983624,
+        "lastSeen": 1542278942.0991921,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 2
+        "timesCorrect": 10,
+        "totalCorrect": 3
       },
       {
         "almost": 0,
@@ -18075,11 +18075,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "格好",
-        "lastSeen": 1541664521.0800462,
+        "lastSeen": 1542278457.9927113,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 13
+        "timesCorrect": 8,
+        "totalCorrect": 14
       },
       {
         "almost": 0,
@@ -18413,11 +18413,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "質",
-        "lastSeen": 1541208944.1857867,
+        "lastSeen": 1542278949.9759734,
         "misses": 0,
         "studyGroup": 0,
         "timesCorrect": 8,
-        "totalCorrect": 2
+        "totalCorrect": 3
       },
       {
         "almost": 0,
@@ -18493,11 +18493,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "代理",
-        "lastSeen": 1541208960.383619,
+        "lastSeen": 1542278958.7987611,
         "misses": 1,
         "studyGroup": 0,
         "timesCorrect": 8,
-        "totalCorrect": 6
+        "totalCorrect": 7
       },
       {
         "almost": 0,
@@ -18719,11 +18719,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "草",
-        "lastSeen": 1541208972.2425175,
+        "lastSeen": 1542278965.2095919,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 5
+        "timesCorrect": 9,
+        "totalCorrect": 6
       },
       {
         "almost": 0,
@@ -18751,11 +18751,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "要る",
-        "lastSeen": 1541664832.2240348,
+        "lastSeen": 1542278725.1158023,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 11
+        "timesCorrect": 8,
+        "totalCorrect": 12
       },
       {
         "almost": 0,
@@ -18774,7 +18774,7 @@
         "totalCorrect": 9
       },
       {
-        "almost": 1,
+        "almost": 2,
         "ambiguous": 0,
         "cardType": "kanji2",
         "desiredImageIndex": 0,
@@ -18783,11 +18783,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "現状",
-        "lastSeen": 1541664595.0904717,
+        "lastSeen": 1542279131.4054995,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 12
+        "timesCorrect": 4,
+        "totalCorrect": 13
       },
       {
         "almost": 0,
@@ -19009,11 +19009,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "夫",
-        "lastSeen": 1541208968.383913,
+        "lastSeen": 1542278961.9771686,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 4
+        "timesCorrect": 9,
+        "totalCorrect": 5
       },
       {
         "almost": 0,
@@ -19224,7 +19224,7 @@
         "totalCorrect": 5
       },
       {
-        "almost": 2,
+        "almost": 3,
         "ambiguous": 0,
         "cardType": "kanji2",
         "desiredImageIndex": 0,
@@ -19233,14 +19233,14 @@
         "image": null,
         "imageIndex": null,
         "kanji": "制度",
-        "lastSeen": 1542025244.8813064,
+        "lastSeen": 1542278823.6091008,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 11
+        "timesCorrect": 4,
+        "totalCorrect": 12
       },
       {
-        "almost": 3,
+        "almost": 4,
         "ambiguous": 0,
         "cardType": "kanji2",
         "desiredImageIndex": 0,
@@ -19249,11 +19249,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "突然",
-        "lastSeen": 1541664622.2760973,
+        "lastSeen": 1542279180.7344701,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 12
+        "timesCorrect": 4,
+        "totalCorrect": 13
       },
       {
         "almost": 1,
@@ -19411,11 +19411,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "余り",
-        "lastSeen": 1542025295.4891794,
+        "lastSeen": 1542278244.456318,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 8
+        "timesCorrect": 7,
+        "totalCorrect": 9
       },
       {
         "almost": 1,
@@ -19427,11 +19427,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "上げる",
-        "lastSeen": 1541664817.1362803,
+        "lastSeen": 1542278702.9429939,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 11
+        "timesCorrect": 8,
+        "totalCorrect": 12
       },
       {
         "almost": 1,
@@ -19765,11 +19765,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "問題",
-        "lastSeen": 1541208890.7786586,
+        "lastSeen": 1542278944.49029,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 2
+        "timesCorrect": 10,
+        "totalCorrect": 3
       },
       {
         "almost": 0,
@@ -19893,11 +19893,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "信頼",
-        "lastSeen": 1542025339.759445,
+        "lastSeen": 1542278290.0841348,
         "misses": 2,
         "studyGroup": 0,
         "timesCorrect": 6,
-        "totalCorrect": 12
+        "totalCorrect": 13
       },
       {
         "almost": 0,
@@ -19957,11 +19957,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "親",
-        "lastSeen": 1541208819.869939,
+        "lastSeen": 1542278936.811793,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 2
+        "timesCorrect": 9,
+        "totalCorrect": 3
       }
     ],
     "62": [
@@ -19975,11 +19975,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "耳",
-        "lastSeen": 1541208826.8380568,
+        "lastSeen": 1542278939.3334599,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 2
+        "timesCorrect": 10,
+        "totalCorrect": 3
       },
       {
         "almost": 0,
@@ -20023,11 +20023,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "会計",
-        "lastSeen": 1541664814.810283,
+        "lastSeen": 1542278699.86736,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 13
+        "timesCorrect": 8,
+        "totalCorrect": 14
       },
       {
         "almost": 0,
@@ -20183,11 +20183,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "容易",
-        "lastSeen": 1541664741.5564404,
+        "lastSeen": 1542278618.5209227,
         "misses": 3,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 14
+        "timesCorrect": 8,
+        "totalCorrect": 15
       },
       {
         "almost": 1,
@@ -20247,11 +20247,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "親友",
-        "lastSeen": 1541208803.7632408,
+        "lastSeen": 1542278921.7741785,
         "misses": 0,
         "studyGroup": 0,
         "timesCorrect": 8,
-        "totalCorrect": 2
+        "totalCorrect": 3
       },
       {
         "almost": 0,
@@ -20288,7 +20288,7 @@
     ],
     "63": [
       {
-        "almost": 1,
+        "almost": 2,
         "ambiguous": 0,
         "cardType": "kanji2",
         "desiredImageIndex": 0,
@@ -20297,10 +20297,10 @@
         "image": null,
         "imageIndex": null,
         "kanji": "位置",
-        "lastSeen": 1541664785.0474484,
+        "lastSeen": 1542278670.0196009,
         "misses": 4,
         "studyGroup": 0,
-        "timesCorrect": 7,
+        "timesCorrect": 3,
         "totalCorrect": 22
       },
       {
@@ -20425,11 +20425,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "常に",
-        "lastSeen": 1541664516.1117425,
+        "lastSeen": 1542278453.0867317,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 12
+        "timesCorrect": 8,
+        "totalCorrect": 13
       },
       {
         "almost": 0,
@@ -20569,11 +20569,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "程度",
-        "lastSeen": 1542025239.6980371,
+        "lastSeen": 1542278200.8148754,
         "misses": 3,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 14
+        "timesCorrect": 7,
+        "totalCorrect": 15
       },
       {
         "almost": 0,
@@ -20763,11 +20763,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "台風",
-        "lastSeen": 1541208811.6055448,
+        "lastSeen": 1542278931.8810902,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 2
+        "timesCorrect": 10,
+        "totalCorrect": 3
       },
       {
         "almost": 0,
@@ -20827,11 +20827,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "主に",
-        "lastSeen": 1541664851.3983667,
+        "lastSeen": 1542278732.1464376,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 11
+        "timesCorrect": 8,
+        "totalCorrect": 12
       },
       {
         "almost": 0,
@@ -21053,11 +21053,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "適度",
-        "lastSeen": 1541664800.5013108,
+        "lastSeen": 1542278681.2638085,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 9
+        "timesCorrect": 8,
+        "totalCorrect": 10
       },
       {
         "almost": 2,
@@ -21665,11 +21665,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "大使",
-        "lastSeen": 1541664503.023285,
+        "lastSeen": 1542278450.0151877,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 6
+        "timesCorrect": 8,
+        "totalCorrect": 7
       },
       {
         "almost": 0,
@@ -21923,11 +21923,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "見当",
-        "lastSeen": 1541664563.6240072,
+        "lastSeen": 1542278476.8785014,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 5
+        "timesCorrect": 8,
+        "totalCorrect": 6
       },
       {
         "almost": 1,
@@ -22309,11 +22309,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "外す",
-        "lastSeen": 1541664752.126099,
+        "lastSeen": 1542278639.1504178,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 8
+        "timesCorrect": 8,
+        "totalCorrect": 9
       },
       {
         "almost": 3,
@@ -22437,11 +22437,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "明後日",
-        "lastSeen": 1542025478.204911,
+        "lastSeen": 1542278305.8609087,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 5
+        "timesCorrect": 7,
+        "totalCorrect": 6
       },
       {
         "almost": 2,
@@ -22469,11 +22469,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "一月",
-        "lastSeen": 1541664495.9797359,
+        "lastSeen": 1542278436.9968138,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 6
+        "timesCorrect": 8,
+        "totalCorrect": 7
       },
       {
         "almost": 0,
@@ -22631,14 +22631,14 @@
         "image": null,
         "imageIndex": null,
         "kanji": "出会う",
-        "lastSeen": 1541208084.3521886,
+        "lastSeen": 1542278870.3327131,
         "misses": 0,
         "studyGroup": 0,
         "timesCorrect": 8,
-        "totalCorrect": 2
+        "totalCorrect": 3
       },
       {
-        "almost": 3,
+        "almost": 4,
         "ambiguous": 0,
         "cardType": "kanji2",
         "desiredImageIndex": 0,
@@ -22647,10 +22647,10 @@
         "image": null,
         "imageIndex": null,
         "kanji": "科目",
-        "lastSeen": 1541664732.9466,
+        "lastSeen": 1542278602.5499036,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 7,
+        "timesCorrect": 3,
         "totalCorrect": 12
       },
       {
@@ -22743,11 +22743,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "思わず",
-        "lastSeen": 1541208037.7790992,
+        "lastSeen": 1542278836.0291512,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 2
+        "timesCorrect": 9,
+        "totalCorrect": 3
       },
       {
         "almost": 1,
@@ -22775,11 +22775,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "背広",
-        "lastSeen": 1541208080.9374993,
+        "lastSeen": 1542278855.179637,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 2
+        "timesCorrect": 9,
+        "totalCorrect": 3
       },
       {
         "almost": 0,
@@ -22889,11 +22889,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "高速",
-        "lastSeen": 1541208100.0927758,
+        "lastSeen": 1542278875.322632,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 2
+        "timesCorrect": 9,
+        "totalCorrect": 3
       },
       {
         "almost": 1,
@@ -22905,11 +22905,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "道具",
-        "lastSeen": 1541664579.7594163,
+        "lastSeen": 1542278496.7884517,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 7,
-        "totalCorrect": 4
+        "timesCorrect": 8,
+        "totalCorrect": 5
       },
       {
         "almost": 0,
@@ -22976,7 +22976,7 @@
         "totalCorrect": 2
       },
       {
-        "almost": 0,
+        "almost": 1,
         "ambiguous": 0,
         "cardType": "kanji2",
         "desiredImageIndex": 0,
@@ -22985,10 +22985,10 @@
         "image": null,
         "imageIndex": null,
         "kanji": "親切",
-        "lastSeen": 1541208032.2656157,
+        "lastSeen": 1542278814.7701857,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
+        "timesCorrect": 4,
         "totalCorrect": 2
       },
       {
@@ -23017,11 +23017,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "太る",
-        "lastSeen": 1541208041.038397,
+        "lastSeen": 1542278838.9646492,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 2
+        "timesCorrect": 9,
+        "totalCorrect": 3
       },
       {
         "almost": 0,
@@ -23113,11 +23113,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "写真",
-        "lastSeen": 1541208078.3866594,
+        "lastSeen": 1542278842.054762,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 2
+        "timesCorrect": 9,
+        "totalCorrect": 3
       },
       {
         "almost": 0,
@@ -23202,7 +23202,7 @@
         "totalCorrect": 5
       },
       {
-        "almost": 4,
+        "almost": 5,
         "ambiguous": 0,
         "cardType": "kanji2",
         "desiredImageIndex": 0,
@@ -23211,11 +23211,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "参考",
-        "lastSeen": 1542025311.1271014,
+        "lastSeen": 1542278857.6185892,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 13
+        "timesCorrect": 4,
+        "totalCorrect": 14
       },
       {
         "almost": 0,
@@ -23227,11 +23227,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "別に",
-        "lastSeen": 1541208691.9797108,
+        "lastSeen": 1542278904.523377,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 2
+        "timesCorrect": 9,
+        "totalCorrect": 3
       },
       {
         "almost": 0,
@@ -23314,7 +23314,7 @@
         "totalCorrect": 5
       },
       {
-        "almost": 3,
+        "almost": 4,
         "ambiguous": 0,
         "cardType": "kanji2",
         "desiredImageIndex": 0,
@@ -23323,10 +23323,10 @@
         "image": null,
         "imageIndex": null,
         "kanji": "事情",
-        "lastSeen": 1541664657.4015658,
+        "lastSeen": 1542278583.4289243,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 7,
+        "timesCorrect": 3,
         "totalCorrect": 16
       },
       {
@@ -23467,11 +23467,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "全く",
-        "lastSeen": 1541665453.5397103,
+        "lastSeen": 1542278754.4594262,
         "misses": 1,
         "studyGroup": 0,
         "timesCorrect": 7,
-        "totalCorrect": 7
+        "totalCorrect": 8
       },
       {
         "almost": 2,
@@ -23581,11 +23581,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "経由",
-        "lastSeen": 1542025224.250401,
+        "lastSeen": 1542278180.497341,
         "misses": 3,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 13
+        "timesCorrect": 7,
+        "totalCorrect": 14
       },
       {
         "almost": 0,
@@ -23789,11 +23789,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "二十日",
-        "lastSeen": 1541208629.9594178,
+        "lastSeen": 1542278889.830116,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 2
+        "timesCorrect": 9,
+        "totalCorrect": 3
       },
       {
         "almost": 0,
@@ -24209,11 +24209,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "苦しむ",
-        "lastSeen": 1541208655.900442,
+        "lastSeen": 1542278897.8947282,
         "misses": 0,
         "studyGroup": 0,
-        "timesCorrect": 8,
-        "totalCorrect": 2
+        "timesCorrect": 9,
+        "totalCorrect": 3
       },
       {
         "almost": 2,
@@ -24538,7 +24538,7 @@
         "totalCorrect": 2
       },
       {
-        "almost": 3,
+        "almost": 4,
         "ambiguous": 0,
         "cardType": "kanji2",
         "desiredImageIndex": 0,
@@ -24547,10 +24547,10 @@
         "image": null,
         "imageIndex": null,
         "kanji": "非常",
-        "lastSeen": 1541664728.9168088,
+        "lastSeen": 1542278590.9933875,
         "misses": 1,
         "studyGroup": 0,
-        "timesCorrect": 7,
+        "timesCorrect": 3,
         "totalCorrect": 13
       },
       {
@@ -24901,11 +24901,11 @@
         "image": null,
         "imageIndex": null,
         "kanji": "景色",
-        "lastSeen": 1542025343.689625,
+        "lastSeen": 1542278299.1101718,
         "misses": 2,
         "studyGroup": 0,
-        "timesCorrect": 6,
-        "totalCorrect": 12
+        "timesCorrect": 7,
+        "totalCorrect": 13
       },
       {
         "almost": 0,
