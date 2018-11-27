@@ -25,3 +25,5 @@ saveFileNames = {"vocab":"savedVocabDeck.json","kanji":"savedKanjiDeck.json","ka
 
 
 knownChars = "charactersShouldKnow.txt"
+
+approxJLPT = 1543768646.0682611

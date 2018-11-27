@@ -274,6 +274,8 @@ class FlashCardApp:
             binCount2[i] = 0
         
         for c in self.studySet:
+            if c.getTimeToNext()>(S.approxJLPT-time.time()):
+                continue
             if c.getTimeToNext()<=0:
                 cardsRemaining += 1
                 binCount2[c.timesCorrect] += 1
